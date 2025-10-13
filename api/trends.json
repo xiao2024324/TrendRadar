@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T21:26:28.802814+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-10-13T22:22:08.227883+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "四年翻四倍，巴菲特押注日本股票超300亿美元！",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时27分]"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251013214134823800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "上周五股票ETF资金净流入超300亿元",
