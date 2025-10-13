@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T03:12:55.587325+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2025-10-14T04:16:59.523040+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时16分]"
         },
         {
           "title": "Melius Research LLC.分析师Rob Wertheimer基于特斯拉推荐买入的初始评级，称其是“必须持有”的股票。",
