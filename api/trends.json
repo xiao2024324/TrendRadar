@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T06:13:30.922668+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-10-16T07:13:39.827427+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://flash.jin10.com/detail/20251016055157504800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "Salesforce预计2030财年剔除Informatica的收入为600亿美元。 预计收入将在未来12-18个月加速增长。 （CFO称）未来六个月将回购70亿美元股票。 Salesforce在分析师日活动盘后涨超3%。",
           "url": "https://wallstreetcn.com/livenews/2988435",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",
