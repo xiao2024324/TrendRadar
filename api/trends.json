@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-15T21:30:09.427521+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2025-10-15T22:14:48.487071+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251015214447215800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
         {
           "title": "美国贸易代表格里尔：我们一直关注股票和债券市场。",
           "url": "https://flash.jin10.com/detail/20251014234316119800",
@@ -93,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
