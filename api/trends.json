@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T21:28:53.212978+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2025-10-16T22:15:46.906031+08:00",
+  "total_titles_processed": 2159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -86,6 +86,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251016214147715800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "分析师表示，如果油价跌破50美元，多数大型石油公司预计将暂停股票回购。",
+          "url": "https://flash.jin10.com/detail/20251016214004215800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     }
