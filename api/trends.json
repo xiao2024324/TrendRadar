@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T22:15:36.730925+08:00",
-  "total_titles_processed": 2105,
+  "generated_at": "2025-10-17T23:14:10.906805+08:00",
+  "total_titles_processed": 2193,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20251017214136597800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时14分]"
         },
         {
           "title": "据知情人士透露，Standard Lithium（SLI.US）寻求通过增发股票融资1.2亿美元。 该公司将美国发行价指导区间设在每股4.35-4.65美元，将提供最大19.3%的折扣。（彭博）",
