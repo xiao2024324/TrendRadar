@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-18T06:13:41.268712+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-10-18T07:12:23.110688+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251018040735282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 07时12分]"
+        },
         {
           "title": "伦敦证券交易所（LSE）首席执行官（CEO）David Schwimmer：英国养老基金行业在持有英国股票方面需要更多激励。",
           "url": "https://wallstreetcn.com/livenews/2989834",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时13分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
