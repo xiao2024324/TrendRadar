@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T17:14:36.452893+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-10-18T18:14:24.356294+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
+          "url": "https://www.zhihu.com/question/1962263756634579137",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "欧洲银行股普跌，追随周四美国地区银行板块暴跌的表现。 彭博数据显示，欧洲STOXX 600银行指数的成分股中，西班牙上市的萨瓦德尔银行（SAB.SQ）收跌6.78%，德意志银行跌6.07%表现倒数第二，收购要约被对方拒绝、进而重启股票回购方案的西班牙对外银行（BBVA）涨5.98%。 意大利银行股普跌。",
