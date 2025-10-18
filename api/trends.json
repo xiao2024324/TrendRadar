@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T07:12:23.110688+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-10-18T08:56:13.751089+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251018040735282800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时56分]"
         },
         {
           "title": "伦敦证券交易所（LSE）首席执行官（CEO）David Schwimmer：英国养老基金行业在持有英国股票方面需要更多激励。",
