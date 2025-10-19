@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-19T23:13:18.148311+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-10-20T00:14:52.643017+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李大霄：股票市场要与人性弱点斗争",
-          "url": "https://www.toutiao.com/trending/7562804060991000127/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
