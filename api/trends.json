@@ -1,138 +1,44 @@
 {
-  "generated_at": "2025-10-20T23:14:30.302588+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-10-21T00:16:47.359281+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据知情人士透露，电动飞机制造商Beta Technologies Inc.启动正式的美国IPO程序，预计将于11月份定价。 近日消息称，该公司希望通过首次公开发行股票募资至多8.25亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2990764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
         {
           "title": "上下班都在玩股票！“12小时交易”上线逾半年 韩国股民彻底上瘾了",
           "url": "https://www.cls.cn/detail/2174360",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时13分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "Evercore ISI：将苹果股票纳入战术性跑赢大盘名单。",
-          "url": "https://wallstreetcn.com/livenews/2990597",
+          "title": "MSCI亚太股票指数上涨2%，报226.40点。",
+          "url": "https://wallstreetcn.com/livenews/2990756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时14分]"
-        },
-        {
-          "title": "印度尼西亚股票基准指数上升2%至8,073.53点。",
-          "url": "https://wallstreetcn.com/livenews/2990435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时22分]"
-        },
-        {
-          "title": "东土科技：正在筹划发行股份等方式购买北京高威科电气技术股份有限公司100%股权，并募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/2990633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时27分]"
-        },
-        {
-          "title": "美国锑业盘前大涨 拟全股票收购澳洲矿商Larvotto以强化关键矿产",
-          "url": "https://wallstreetcn.com/livenews/2990735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 23时14分]"
-        },
-        {
-          "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251020214255792800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "【寒武纪：向特定对象发行股票发行数量3,334,946股 发行价格为1,195.02元/股】寒武纪公告，2025年度向特定对象发行A股股票，发行数量为3,334,946股，发行价格为1,195.02元/股，募集资金总额为人民币3,985,327,168.92元，募集资金净额为人民币3,953,155,863.99元。本次发行新增股份将于限售期届满的次一交易日起在上海证券交易所科创板上市流通交易，如遇法定节假日或休息日，则顺延至其后的第一个交易日。",
-          "url": "https://wallstreetcn.com/livenews/2990669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "帝奥微：拟通过发行股份及支付现金的方式购买董志伟等16名股东持有的荣湃半导体100%股权并募集配套资金，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/2990665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "国家统计局：前三季度沪深两市股票成交额同比增长106.8%",
-          "url": "https://wallstreetcn.com/livenews/2990366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "标准股份：标准集团正按照实际控制人西安市人民政府国有资产监督管理委员会及西安工业投资集团有限公司的通知要求筹划重大事项，该事项可能导致公司控制权发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/2990648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "美股开盘，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。亚马逊(AMZN.O)开涨0.40%，此前该公司云服务出现大规模故障，致使全球多家企业的网络连接出现问题，不过服务现已多数恢复正常，苹果(AAPL.O)开涨1.83%，有投行看好iPhone需求，将其股票评级上调至“买入”。",
-          "url": "https://flash.jin10.com/detail/20251020213040457800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "00时16分"
         }
       ]
     }
