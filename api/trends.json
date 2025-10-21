@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:15:58.174194+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-10-21T13:16:03.518382+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时16分]"
         },
         {
           "title": "据知情人士透露，电动飞机制造商Beta Technologies Inc.启动正式的美国IPO程序，预计将于11月份定价。 近日消息称，该公司希望通过首次公开发行股票募资至多8.25亿美元。（彭博）",
