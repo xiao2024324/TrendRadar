@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:14:20.109319+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2025-10-22T20:27:50.315436+08:00",
+  "total_titles_processed": 1937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“中国股票慢牛正在形成”！高盛：未来两年有望涨30% 应转变思维“逢低买入”",
@@ -20,17 +20,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时22分 ~ 19时14分]"
-        },
-        {
-          "title": "时空科技：拟通过发行股份及支付现金的方式收购嘉合劲威100%股份，并募集配套资金，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/2991900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -66,6 +55,18 @@
           "time_info": "14时21分"
         },
         {
+          "title": "时空科技：拟通过发行股份及支付现金的方式收购嘉合劲威100%股份，并募集配套资金，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/2991900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时27分]"
+        },
+        {
           "title": "Prosus在10月13-17日按均价58.4410欧元回购股票145.0106万股。 Naspers同期按均价1208.2742南非兰特回购股票66.3841万股。",
           "url": "https://wallstreetcn.com/livenews/2991326",
           "source": "华尔街见闻-快讯",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "品茗科技：如公司股票交易持续异常波动，公司可能按照相关规则要求申请停牌核查",
+          "url": "https://wallstreetcn.com/livenews/2991906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
