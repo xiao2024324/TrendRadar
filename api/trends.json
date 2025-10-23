@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T09:00:31.887299+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2025-10-23T10:27:32.865013+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本至10月17日当周买进外国股票 -2881亿日元，前值593亿日元。",
@@ -14,9 +14,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        },
+        {
+          "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31824400",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -36,7 +47,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         }
