@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:29:30.201822+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2025-10-23T22:15:02.784706+08:00",
+  "total_titles_processed": 2116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时27分 ~ 21时29分]"
+          "appearance_count": 19,
+          "time_info": "[10时27分 ~ 22时15分]"
         },
         {
           "title": "印度纺织类股票大涨，有报道称印度与美国接近达成协议，或削减对印度进口产品的关税。",
@@ -69,6 +69,17 @@
           "time_info": "20时27分"
         },
         {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251023003551309800",
           "source": "金十数据",
@@ -78,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "在米兰上市的意法半导体股票在停牌后恢复交易，最新下跌11%。",
+          "url": "https://flash.jin10.com/detail/20251023214146448800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "日本10月17日当周外资净买进日本股票 7526亿日元，前值 18850亿日元。",
