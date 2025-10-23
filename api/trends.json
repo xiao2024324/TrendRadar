@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T01:13:56.853403+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-10-24T02:21:34.207337+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31824400",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时21分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -25,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
