@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T22:15:02.784706+08:00",
-  "total_titles_processed": 2116,
+  "generated_at": "2025-10-23T23:17:05.669991+08:00",
+  "total_titles_processed": 2206,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时27分 ~ 22时15分]"
+          "appearance_count": 21,
+          "time_info": "[10时27分 ~ 23时17分]"
         },
         {
           "title": "印度纺织类股票大涨，有报道称印度与美国接近达成协议，或削减对印度进口产品的关税。",
@@ -75,7 +76,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -97,7 +98,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
