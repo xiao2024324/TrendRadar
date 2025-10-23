@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T05:13:41.571906+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-10-24T06:14:45.208829+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -38,7 +38,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
