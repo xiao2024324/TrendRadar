@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T07:13:13.438551+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-10-25T08:58:53.011013+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251025040539216800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时58分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
