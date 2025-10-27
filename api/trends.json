@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T16:19:35.118546+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-10-27T17:19:31.236883+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 17时19分]"
         },
         {
           "title": "英唐智控：正在筹划发行股份等方式购买桂林光隆集成科技有限公司、上海奥简微电子科技有限公司，股票停牌。",
@@ -40,7 +40,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
