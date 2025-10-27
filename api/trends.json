@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T11:15:15.737609+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2025-10-27T12:26:27.978054+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英唐智控：正在筹划发行股份等方式购买桂林光隆集成科技有限公司、上海奥简微电子科技有限公司，股票停牌。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时12分]"
+        },
+        {
+          "title": "10月27日投资避雷针：上纬新材再发警示 如股票价格进一步脱离基本面将申请停牌核查",
+          "url": "https://www.cls.cn/detail/2181086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
