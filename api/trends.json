@@ -1,170 +1,55 @@
 {
-  "generated_at": "2025-10-28T23:17:47.198262+08:00",
-  "total_titles_processed": 2159,
+  "generated_at": "2025-10-29T00:19:42.685735+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
-          "title": "小马智行申请通过香港IPO发行4200万股股票。 发行价指导区间顶端为每股180港元。 预计股票将于11月4日定价，预计将从11月6日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/2994587",
-          "source": "华尔街见闻-快讯",
+          "title": "诺基亚(NOK.N)在美上市股票创下自2021年1月以来的最高点，最新上涨18.3%。",
+          "url": "https://flash.jin10.com/detail/20251028235657400800",
+          "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "00时19分"
+        },
+        {
+          "title": "突发！这家公司股票交易异常波动 明起停牌核查|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2183901",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "诺基亚(NOK.N)美国上市股票恢复交易，现涨近20%。",
+          "url": "https://flash.jin10.com/detail/20251028234613046800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "Prosus在10月20-24日当周回购0.442亿欧元（折合超0.51亿美元）股票，均价58.7980欧元，回购75.1995万股。 Naspers同期回购将近4.91亿南非兰特（折合超0.28亿美元）股票，均价1211.6259兰特，回购40.5216万股。",
           "url": "https://wallstreetcn.com/livenews/2995223",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "英国金融市场监督机构确认，将停止公布股票市场卖空者的身份信息。",
-          "url": "https://flash.jin10.com/detail/20251028181217724800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "铀相关股票在美国达成800亿美元新建核电站协议后上涨，Oklo上涨2.9%，Nuscale Power上涨14.1%，Nano Nuclear上涨6.2%。",
-          "url": "https://flash.jin10.com/detail/20251028225900624800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "均胜电子公告称，香港招股拟发行1.55亿股股票，拟以每股至多23.60港元的价格发行H股，预计将于11月6日挂牌上市。",
-          "url": "https://wallstreetcn.com/livenews/2994586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时05分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时14分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003902797800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时21分]"
-        },
-        {
-          "title": "据英国《金融时报》：英国将停止披露股票市场做空者的身份。",
-          "url": "https://flash.jin10.com/detail/20251028030238840800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时13分]"
-        },
-        {
-          "title": "*ST正平：股票交易异常波动 明起停牌核查",
-          "url": "https://wallstreetcn.com/livenews/2995019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "三季度股票型指数基金规模新增超万亿元",
-          "url": "https://wallstreetcn.com/livenews/2995158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "文远知行申请香港IPO。 寻求发行大约8830万股股票。 股票发行价指导区间顶端为每股35港元。 预计将于11月4日定价，预计股票将从11月6日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/2994563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "上纬新材：上海智元恒岳科技合伙企业（有限合伙）要约收购期满，因需进一步确认要约收购结果，公司股票10月29日停牌一天，将于10月30日复牌。",
-          "url": "https://wallstreetcn.com/livenews/2995045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "汇丰控股(00005.HK)：已完成于7月30日宣布的30亿美元股票回购。",
-          "url": "https://flash.jin10.com/detail/20251028120943239800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251028214237483800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "00时19分"
         }
       ]
     }
