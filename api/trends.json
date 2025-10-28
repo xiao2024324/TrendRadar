@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T05:12:37.562137+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-10-29T06:15:24.019518+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 06时15分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251029040619024800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时15分]"
         },
         {
           "title": "诺基亚(NOK.N)在美上市股票创下自2021年1月以来的最高点，最新上涨18.3%。",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040619024800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "Prosus在10月20-24日当周回购0.442亿欧元（折合超0.51亿美元）股票，均价58.7980欧元，回购75.1995万股。 Naspers同期回购将近4.91亿南非兰特（折合超0.28亿美元）股票，均价1211.6259兰特，回购40.5216万股。",
