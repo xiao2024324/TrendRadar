@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:27:00.167738+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-10-29T21:30:30.323242+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时27分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 21时30分]"
         },
         {
           "title": "突发！这家公司股票交易异常波动 明起停牌核查|盘后公告集锦",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "三环集团：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/2995992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "市场消息：俄罗斯政府已允许包括核能垄断企业俄罗斯国家原子能公司和俄罗斯铁路公司在内的国有企业，使用其闲置现金在市场上购买股票和债券。此举被视为在最新一轮美国制裁后提振股市的举措。",
