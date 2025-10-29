@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T19:12:32.496347+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2025-10-29T20:27:00.167738+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时01分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 20时27分]"
         },
         {
           "title": "突发！这家公司股票交易异常波动 明起停牌核查|盘后公告集锦",
@@ -151,7 +151,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
