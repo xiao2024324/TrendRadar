@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T06:13:44.935427+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-10-31T07:13:01.529136+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时21分]"
+        },
+        {
+          "title": "金融监管总局：养老理财产品试点地区扩大至全国，支持理财公司以债券、股票等投资养老领域资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855631",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 07时13分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
