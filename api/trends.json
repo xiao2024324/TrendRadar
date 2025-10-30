@@ -1,112 +1,22 @@
 {
-  "generated_at": "2025-10-30T23:19:37.262664+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2025-10-31T00:19:44.952105+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时23分 ~ 07时17分]"
-        },
-        {
-          "title": "法兴银行CEO：股票回购是一种利用过剩资本的有利可图且低风险的方式。",
-          "url": "https://flash.jin10.com/detail/20251030165048447800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "斯特兰蒂斯在意大利上市的股票延续跌势，现跌4%。",
-          "url": "https://flash.jin10.com/detail/20251030160719518800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251030214126559800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "证监会同意摩尔线程智能科技（北京）股份有限公司首次公开发行股票注册。",
-          "url": "https://wallstreetcn.com/livenews/2996708",
+          "title": "中东股市收盘播报｜周四（10月30日），沙特证交所全股指数收跌0.82%——打乱10月27-29日持续上涨的趋势，报11655.85点，本周（连续五个自然日）累计上涨0.38%。 沙特阿美（ARAMCO.AB）收跌0.08%，报25.90沙特里亚尔，本周累涨0.15%、整体持续震荡上行。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.99%——逆转此前四天持续走高的趋势，报12.02沙特里亚尔，本周累跌1.64%。 土耳其伊斯坦布尔证交所全国100指数收跌0.31%，伊斯坦布尔证交所银行指数收涨0.62%。",
+          "url": "https://wallstreetcn.com/livenews/2997035",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "中国国航：拟向特定对象发行A股股票募集资金不超过200亿元",
-          "url": "https://wallstreetcn.com/livenews/2996944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时13分]"
-        },
-        {
-          "title": "百威英博宣布60亿美元股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/2996512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "壳牌宣布35亿美元的股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/2996554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "日本至10月24日当周买进外国股票 -621亿日元，前值-2881亿日元。",
-          "url": "https://flash.jin10.com/detail/20251030075048037800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "00时19分"
         }
       ]
     }
