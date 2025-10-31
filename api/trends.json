@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:19:28.234299+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-10-31T17:14:59.836241+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时12分 ~ 08时59分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)盘前上涨3.3%，此前公司宣布进行10比1股票拆分。",
+          "url": "https://flash.jin10.com/detail/20251031163544977800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
