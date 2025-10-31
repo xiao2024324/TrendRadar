@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T05:14:09.860415+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-11-01T06:14:31.286584+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -16,8 +16,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时14分]"
+        },
+        {
+          "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
+          "url": "https://wallstreetcn.com/livenews/2997911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
+          "url": "https://wallstreetcn.com/livenews/2997909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
