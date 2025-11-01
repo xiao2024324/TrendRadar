@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:13:29.559930+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-11-01T18:14:27.815211+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 17时13分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 18时14分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
