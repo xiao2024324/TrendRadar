@@ -1,162 +1,33 @@
 {
-  "generated_at": "2025-11-01T23:13:17.109637+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-11-02T00:15:26.972235+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时02分 ~ 21时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040624223800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时15分 ~ 09时02分]"
-        },
-        {
-          "title": "段永平向江西水利电力大学捐赠市值1500万元贵州茅台股票",
-          "url": "https://wallstreetcn.com/livenews/2997991",
+          "title": "段永平回应向江西一高校捐赠1万股茅台股票：他们每年花分红就好，市值只是暂时的",
+          "url": "https://wallstreetcn.com/livenews/2998037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            6,
-            9,
-            12,
-            25,
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 21时21分]"
-        },
-        {
-          "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
-          "url": "https://wallstreetcn.com/livenews/2997911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 09时02分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)：公司在三季度已连续第12个季度成为股票净卖方。",
-          "url": "https://flash.jin10.com/detail/20251101201215875800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时11分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
-          "url": "https://wallstreetcn.com/livenews/2997909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 09时02分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N)：在第三季度和10月的前20天没有回购任何本公司的股票。",
-          "url": "https://flash.jin10.com/detail/20251101203239418800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度未进行股票回购。",
           "url": "https://wallstreetcn.com/livenews/2998017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 23时13分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度拒绝回购自己的股票。",
-          "url": "https://wallstreetcn.com/livenews/2998017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
-          "url": "https://wallstreetcn.com/livenews/2997809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
-          "url": "https://flash.jin10.com/detail/20251101075921509800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251101004053080800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "00时15分"
         }
       ]
     }
