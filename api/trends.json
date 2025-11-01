@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:14:04.690976+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-11-01T09:02:29.927355+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时14分]"
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 09时02分]"
         },
         {
           "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时14分]"
+          "appearance_count": 3,
+          "time_info": "[06时14分 ~ 09时02分]"
         },
         {
           "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
@@ -37,11 +39,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时14分]"
+          "appearance_count": 3,
+          "time_info": "[06时14分 ~ 09时02分]"
+        },
+        {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -53,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋完成10亿美元股票出售",
+          "url": "https://flash.jin10.com/detail/20251101075921509800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
