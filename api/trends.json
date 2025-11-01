@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T00:15:26.972235+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-02T01:11:02.730450+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度未进行股票回购。",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         }
       ]
     }
