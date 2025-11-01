@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T19:10:30.394357+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-11-01T20:22:45.667630+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时02分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[09时02分 ~ 20时22分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -42,11 +42,23 @@
             2,
             6,
             9,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时22分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)：公司在三季度已连续第12个季度成为股票净卖方。",
+          "url": "https://flash.jin10.com/detail/20251101201215875800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
