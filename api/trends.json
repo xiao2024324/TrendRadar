@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T13:14:55.877446+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2025-11-02T14:20:43.695373+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 14时20分]"
         },
         {
           "title": "段永平回应向江西一高校捐赠1万股茅台股票：他们每年花分红就好，市值只是暂时的",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 14时20分]"
         }
       ]
     }
