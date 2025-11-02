@@ -1,63 +1,22 @@
 {
-  "generated_at": "2025-11-02T23:12:37.919254+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-11-03T00:14:27.922260+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
           "url": "https://wallstreetcn.com/articles/3758486",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 23时12分]"
-        },
-        {
-          "title": "段永平回应向江西一高校捐赠1万股茅台股票：他们每年花分红就好，市值只是暂时的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31876098",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时03分 ~ 23时12分]"
-        },
-        {
-          "title": "段永平回应向江西一高校捐赠1万股茅台股票：他们每年花分红就好，市值只是暂时的",
-          "url": "https://wallstreetcn.com/livenews/2998037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 09时03分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度未进行股票回购。",
-          "url": "https://wallstreetcn.com/livenews/2998017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 09时03分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
