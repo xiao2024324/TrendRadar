@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T09:03:29.057697+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-11-02T11:12:16.698652+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平回应向江西一高校捐赠1万股茅台股票：他们每年花分红就好，市值只是暂时的",
@@ -38,9 +38,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 11时12分]"
+        },
+        {
+          "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
+          "url": "https://wallstreetcn.com/articles/3758486",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
         }
       ]
     }
