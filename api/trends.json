@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T00:17:20.719224+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-04T01:14:51.191415+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小马智行香港IPO股票发行价每股139港元。 于全球发售所得款项总额预计大约为67.1亿港元。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "期权行业组织数据显示，股票交易员有望获得最大幅度的奖金增长。",
+          "url": "https://flash.jin10.com/detail/20251103234903016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     }
