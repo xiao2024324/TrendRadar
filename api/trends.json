@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T16:20:06.261496+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-11-04T17:16:34.427094+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "诺基亚：提交退市申请是在审查了其在泛欧巴黎交易所上市相关的交易量、成本和行政要求后做出的。诺基亚的股票将继续在纳斯达克赫尔辛基证券交易所上市，其美国存托凭证（ADRs）将继续在纽约证券交易所上市。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "长城科技：正在筹划公司股份协议转让事宜 股票继续停牌",
+          "url": "https://wallstreetcn.com/livenews/2999128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "英国石油公司：打算在报告第四季度业绩之前执行7.5亿美元的股票回购。",
