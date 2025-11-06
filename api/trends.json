@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T13:14:36.438526+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-11-06T14:23:02.186432+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "墨西哥航空：全球发行包括在美国发行的740万份美国存托股份的一级发行，以及在墨西哥发行的700万股股票。",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "数据显示：印度股票经纪商Groww规模7.545亿美元的首次公开募股在申购第二天已获足额认购。",
+          "url": "https://flash.jin10.com/detail/20251106134430302800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "日本芯片股票大幅上涨，铠侠控股上涨8%，软银集团上涨3%。",
