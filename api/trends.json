@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T02:22:28.398677+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-07T03:11:40.465374+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
@@ -27,7 +28,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
