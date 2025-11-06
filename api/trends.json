@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T21:29:19.961977+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2025-11-06T22:15:42.925033+08:00",
+  "total_titles_processed": 2040,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,17 @@
           "time_info": "[11时44分 ~ 12时21分]"
         },
         {
+          "title": "MSCI指数最新调整：26只中国股票获纳入，涉资源、半导体等多领域",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905990",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时15分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251106051116318800",
           "source": "金十数据",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "MSCI指数最新调整：26只中国股票获纳入，涉资源、半导体等多领域",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31905990",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "日本芯片股票大幅上涨，铠侠控股上涨8%，软银集团上涨3%。",
