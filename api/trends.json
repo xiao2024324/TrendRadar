@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T01:12:46.521671+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-08T02:20:54.311790+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "瑞银：（本财季）已有48只工业/材料类股票在财报发布当日相对于标普500指数的涨跌幅超过10%。本以为我们不可能再接近上季度创下的50只纪录，但如今我们又达到了这一水平。",
@@ -14,9 +14,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251108013150953800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     }
