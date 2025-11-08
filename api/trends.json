@@ -1,60 +1,7 @@
 {
-  "generated_at": "2025-11-08T23:14:33.020925+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-11-09T00:14:44.650336+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251108080807908800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时21分]"
-        },
-        {
-          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
-          "url": "https://wallstreetcn.com/livenews/3001443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时21分]"
-        },
-        {
-          "title": "瑞银：（本财季）已有48只工业/材料类股票在财报发布当日相对于标普500指数的涨跌幅超过10%。本以为我们不可能再接近上季度创下的50只纪录，但如今我们又达到了这一水平。",
-          "url": "https://flash.jin10.com/detail/20251108001501235800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251108013150953800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
