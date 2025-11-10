@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T05:13:53.201575+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-11T06:15:10.548566+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国航空公司股票转跌。美国航空(AAL.O)现跌1.7%，美国联合航空(UAL.O)跌1.49%，达美航空(DAL.N)跌1%。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251111050530628800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股盘中）",
