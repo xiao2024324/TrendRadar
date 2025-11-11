@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T22:14:19.256892+08:00",
-  "total_titles_processed": 1983,
+  "generated_at": "2025-11-11T23:15:22.464745+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴菲特谢幕信：已捐出13亿美元股票 感叹活到95岁是幸运",
@@ -68,6 +68,28 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "国际金融协会（IIF）：外国投资者向新兴市场股票注入129亿美元，为7月以来最大流入量。",
+          "url": "https://flash.jin10.com/detail/20251111230209291800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "国际金融协会（IIF）：10月份非居民投资者向新兴市场债券和股票投资组合净增加了269亿美元。",
+          "url": "https://flash.jin10.com/detail/20251111230146823800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "德科立：筹划发行S股股票并在新加坡交易所上市。",
           "url": "https://wallstreetcn.com/livenews/3002672",
           "source": "华尔街见闻-快讯",
@@ -121,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251111223618970800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伯克希尔·哈撒韦：巴菲特将1800股A类股票转换为270万股B类股票用于捐赠。",
