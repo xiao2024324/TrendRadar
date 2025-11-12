@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:12:53.935856+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2025-11-12T20:27:40.644464+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "Prosus于11月3-7日按均价59.9133欧元回购股票90.2724万股，总计0.541亿欧元（折合0.623亿美元）。 Naspers同期按均价1232.2187南非兰特回购股票39.0090万股，总计4.807亿兰特（折合0.276亿美元）。",
@@ -43,13 +43,24 @@
           "time_info": "18时15分"
         },
         {
+          "title": "香港金管局余伟文：将与港交所共同探索打通债券和股票存管平台的可行性",
+          "url": "https://wallstreetcn.com/livenews/3003416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "拓斯达：筹划发行H股股票并在香港联合交易所有限公司上市。",
           "url": "https://wallstreetcn.com/livenews/3003365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -60,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -76,15 +87,37 @@
           "time_info": "02时19分"
         },
         {
+          "title": "ST中迪：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3003407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "丸美生物：筹划发行H股股票并申请在香港联合交易所有限公司上市。",
           "url": "https://wallstreetcn.com/livenews/3003358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "瑞银预计新兴市场股票涨幅将在2026年放缓，维持对中国股票的超配评级",
+          "url": "https://wallstreetcn.com/livenews/3003404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "天际股份：公司控股股东汕头天际于股票交易严重异常波动期间卖出公司股票840万股；实际控制人在公司股票交易严重异常波动期间未买卖公司股票。",
@@ -93,7 +126,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
