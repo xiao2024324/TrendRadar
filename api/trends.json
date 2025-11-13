@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:11:38.851569+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-14T04:16:19.784143+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             17,
             16,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "段永平：我就三只股票",
