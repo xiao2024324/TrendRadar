@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:16:07.690509+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2025-11-13T19:13:10.003823+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平为什么说买股票就是买公司",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "段永平：我就三只股票",
+          "url": "https://www.toutiao.com/trending/7571607211873468442/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "证监会：同意沐曦集成电路（上海）股份有限公司首次公开发行股票注册。",
