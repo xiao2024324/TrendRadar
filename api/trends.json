@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T00:17:57.645342+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T01:14:33.875578+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7571607211873468442/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
         },
         {
           "title": "段永平：我就三只股票",
           "url": "https://www.baidu.com/s?wd=%E6%AE%B5%E6%B0%B8%E5%B9%B3%EF%BC%9A%E6%88%91%E5%B0%B1%E4%B8%89%E5%8F%AA%E8%82%A1%E7%A5%A8",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
