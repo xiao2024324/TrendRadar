@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T01:14:33.875578+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-14T02:19:54.561215+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "段永平：我就三只股票",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "段永平：我就三只股票",
@@ -30,6 +31,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时14分]"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251114013133969800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美国一个医疗保健工会提出的一项投票倡议，计划针对加州最富有的居民征收一次性5%的净资产税，适用于净资产超过10亿美元的人群。这意味着征税对象将包括股票、艺术品和知识产权等资产，而不仅仅是收入。",
+          "url": "https://flash.jin10.com/detail/20251114012956708800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "育碧已请求泛欧交易所自11月14日市场开盘起暂停其股票和债券的交易。育碧此前宣布推迟发布上半年业绩。",
+          "url": "https://flash.jin10.com/detail/20251114012011273800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
