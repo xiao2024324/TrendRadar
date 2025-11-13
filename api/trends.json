@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T02:19:54.561215+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-11-14T03:11:38.851569+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             17,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "段永平：我就三只股票",
@@ -39,7 +40,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -50,7 +51,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
