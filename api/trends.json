@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T22:14:53.486961+08:00",
-  "total_titles_processed": 2041,
+  "generated_at": "2025-11-14T23:14:44.939270+08:00",
+  "total_titles_processed": 2126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "段永平：我就三只股票",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时14分]"
         },
         {
           "title": "Robinhood(HOOD.O)：截至10月底，总平台资产为3430亿美元，10月股票名义交易量为3201亿美元。",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251114223638273800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "华盛锂电：股票交易严重异常波动。经公司自查，并向控股股东及实际控制人核实，截至本公告披露日，公司及控股股东、实际控制人不存在应披露而未披露的重大信息。公司目前生产经营未发生重大变。",
