@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T06:13:02.114962+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-11-15T07:12:45.669339+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,23 @@
           "url": "https://www.cls.cn/detail/2201181",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "市场消息：杜肯家族办公室清空微软股份。清仓博通、康宁和礼来公司股票。",
+          "url": "https://flash.jin10.com/detail/20251115035918962800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时12分]"
         },
         {
           "title": "如何从股票数据中预测股票涨跌？",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时15分]"
-        },
-        {
-          "title": "市场消息：杜肯家族办公室清空微软股份。清仓博通、康宁和礼来公司股票。",
-          "url": "https://flash.jin10.com/detail/20251115035918962800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
