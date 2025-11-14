@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T17:15:11.270662+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2025-11-14T18:16:09.243413+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "段永平：我就三只股票",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "上交所：本周对*ST正平、*ST亚振、合富中国、华盛锂电等股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3004799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
@@ -88,7 +99,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -113,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "泽璟制药：拟发行H股股票并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3004767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "育碧已请求泛欧交易所自11月14日市场开盘起暂停其股票和债券的交易。育碧此前宣布推迟发布上半年业绩。",
