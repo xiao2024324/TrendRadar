@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T02:19:21.203337+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-11-15T03:11:41.894893+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "如何从股票数据中预测股票涨跌？",
           "url": "https://www.zhihu.com/question/21109621",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -36,7 +37,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
