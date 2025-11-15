@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T15:12:23.112293+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-11-15T16:16:22.271207+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 15时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 16时16分]"
         },
         {
           "title": "市场消息：杜肯家族办公室清空微软股份。清仓博通、康宁和礼来公司股票。",
