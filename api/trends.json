@@ -1,38 +1,22 @@
 {
-  "generated_at": "2025-11-16T23:12:13.648005+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2025-11-17T00:14:58.183204+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国联民生公告，公司近日收到中国证监会批复，中国证监会已核准公司股票期权做市业务资格。",
-          "url": "https://wallstreetcn.com/livenews/3005277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时10分]"
-        },
         {
           "title": "市场消息：沙特主权财富基金（PIF）在沙特王储访问白宫前减持美国股票。",
           "url": "https://flash.jin10.com/detail/20251116205304314800",
           "source": "金十数据",
           "ranks": [
-            3,
-            13,
-            24
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
