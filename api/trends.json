@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T06:12:20.103408+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2025-11-17T07:12:44.771258+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 06时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 07时12分]"
         },
         {
           "title": "市场消息：沙特主权财富基金（PIF）在沙特王储访问白宫前减持美国股票。",
