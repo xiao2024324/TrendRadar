@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T00:14:58.183204+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-17T01:11:42.144814+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251116205304314800",
           "source": "金十数据",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时11分]"
         }
       ]
     }
