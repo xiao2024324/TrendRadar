@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:14:37.645171+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-11-18T16:18:52.276319+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "澳大利亚主权财富基金在风险攀升之际增持黄金与主动型股票",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国银行全球基金经理调查：全球投资者超配股票比例为自2月25日以来最大，超配大宗商品比例为自2022年9月以来大。",
+          "url": "https://flash.jin10.com/detail/20251118154813650800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股收盘）",
