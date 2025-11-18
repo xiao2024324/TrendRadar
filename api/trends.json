@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T03:12:14.581014+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2025-11-19T04:16:38.661367+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时16分]"
         },
         {
           "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
