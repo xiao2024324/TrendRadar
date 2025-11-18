@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-19T02:20:41.363412+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-11-19T03:12:14.581014+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美银调查显示：投资者以逾三年来最快步伐削减英国股票敞口",
+          "url": "https://wallstreetcn.com/livenews/3006671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时12分]"
+        },
         {
           "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
           "url": "https://flash.jin10.com/detail/20251118233954230800",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美银调查显示：投资者以逾三年来最快步伐削减英国股票敞口",
-          "url": "https://wallstreetcn.com/livenews/3006671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     }
