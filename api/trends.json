@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-19T20:26:50.556617+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-11-19T21:28:23.491282+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "【中金公司：拟换股吸收合并东兴证券、信达证券 明起停牌】中金公司公告称，公司与东兴证券、信达证券正在筹划由中金公司通过换股方式吸收合并东兴证券、信达证券。为保证公平信息披露，维护投资者利益，避免造成公司股价异常波动，公司A股股票将于2025年11月20日开市时起停牌，预计停牌时间不超过25个交易日。本次重组有助于加快建设一流投资银行，支持金融市场改革与证券行业高质发展。",
+          "url": "https://wallstreetcn.com/livenews/3007246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
         {
           "title": "美银调查显示：投资者以逾三年来最快步伐削减英国股票敞口",
           "url": "https://wallstreetcn.com/livenews/3006671",
@@ -83,7 +94,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
