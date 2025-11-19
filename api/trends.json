@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T17:16:59.086111+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-11-19T18:15:22.484796+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时16分]"
+        },
+        {
+          "title": "合富中国：停牌核查结束，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3007072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
         },
         {
           "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "合富中国：停牌核查结束，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3007072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "Prosus在11月10-14日按均价61.7431欧元回购股票112.0709万，总体耗资0.692亿欧元（折合0.8023亿美元）。 Naspers同期按均价1240.6461南非兰特回购43.6848万股，总体耗资5.420亿兰特（折合0.317亿美元）。",
