@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T05:13:10.776763+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-21T06:13:41.863186+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "城堡证券股票策略主管Rubner看好标普500指数年底升至7000点",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251121050621300800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
