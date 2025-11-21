@@ -1,169 +1,33 @@
 {
-  "generated_at": "2025-11-21T23:13:38.084926+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2025-11-22T00:17:24.063615+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
-          "title": "外国投资者周五净卖出价值2.82万亿韩元的韩国KOSPI指数股票，创下单日净卖出额历史新高。",
-          "url": "https://flash.jin10.com/detail/20251121144318411800",
+          "title": "最新Form 144监管文件显示：亚马逊CEO Andrew Jassy申请对公司股票普通股减持1.9872万股。",
+          "url": "https://wallstreetcn.com/livenews/3008803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席执行官贾西提交文件，拟出售19,872股股票。",
+          "url": "https://flash.jin10.com/detail/20251121232638814800",
           "source": "金十数据",
           "ranks": [
-            2
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3008750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时13分]"
-        },
-        {
-          "title": "城堡证券股票策略主管Rubner看好标普500指数年底升至7000点",
-          "url": "https://wallstreetcn.com/livenews/3008121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时12分]"
-        },
-        {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时14分]"
-        },
-        {
-          "title": "“木头姐”Cathie Wood自8月份以来首次买入英伟达股票",
-          "url": "https://wallstreetcn.com/livenews/3008424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
-        },
-        {
-          "title": "上交所：本周对*ST正平、*ST亚振等异常波动退市风险警示股票，以及合富中国等严重异常波动股票进行重点监控。",
-          "url": "https://wallstreetcn.com/livenews/3008609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "超卓航科：控股股东、实际控制人李羿含、李光平、王春晓正在筹划重大事项，该事项可能导致公司控制权变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3008608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "高盛预计下周股票抛售将达400亿美元",
-          "url": "https://wallstreetcn.com/livenews/3008078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251121050621300800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "【摩尔线程：AI计算加速芯片的市场需求呈爆炸式增长，GPU依然是主导芯片】摩尔线程创始人、董事长、总经理张建中在摩尔线程首次公开发行股票并在科创板上市网上投资者交流会上表示，随着中国AI下游应用市场的迅速扩张，AI计算加速芯片的市场需求呈现爆炸式增长，吸引各类芯片制造商的加入。张建中表示，目前，GPU依然是AI市场的主导芯片。不过，以ASIC和FPGA为代表的其他类型芯片也已实现商业化，并在市场中占据一定比例。张建中表示，未来，随着中国GPU企业在技术上的不断突破，AI计算加速芯片的市场规模预计将实现快速增长。(澎湃新闻)",
-          "url": "https://wallstreetcn.com/livenews/3008679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "凯众股份：正在筹划发行股份及支付现金的方式收购安徽拓盛汽车零部件股份有限公司的控制权，并向不超过35名特定投资者发行股份募集配套资金，募集资金全部用于支付本次交易对价，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3008678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：与互联网泡沫时期不同，与人工智能相关的股票上涨主要得益于人工智能公司确实拥有实际收益。",
-          "url": "https://flash.jin10.com/detail/20251121214527130800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "在美上市的锂矿企业股票下跌，标准锂业下跌3.4%，西格玛锂业下跌2.6%，雅宝下跌1.6%，SQM下跌2.6%，美洲锂业股票下跌1.3%。",
-          "url": "https://flash.jin10.com/detail/20251121223409790800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251121013149531800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "00时17分"
         }
       ]
     }
