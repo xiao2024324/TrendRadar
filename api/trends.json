@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T00:17:24.063615+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-22T01:12:45.548357+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3008803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时12分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官贾西提交文件，拟出售19,872股股票。",
