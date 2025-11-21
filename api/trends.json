@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:19:17.089903+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-11-22T03:12:01.090039+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最新Form 144监管文件显示：亚马逊CEO Andrew Jassy申请对公司股票普通股减持1.9872万股。",
@@ -20,13 +20,24 @@
           "time_info": "[00时17分 ~ 01时12分]"
         },
         {
+          "title": "潘兴广场比尔·阿克曼：对加密货币的风险敞口造成（我们）出售房利美和房地美的股票。",
+          "url": "https://wallstreetcn.com/livenews/3008850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251122013313400800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
