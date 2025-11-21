@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T01:12:45.548357+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-11-22T02:19:17.089903+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "最新Form 144监管文件显示：亚马逊CEO Andrew Jassy申请对公司股票普通股减持1.9872万股。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251122013313400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官贾西提交文件，拟出售19,872股股票。",
