@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T18:16:28.862301+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-11-24T19:13:04.518332+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "股票里拉高出货的原理是什么?",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时13分]"
         },
         {
           "title": "港交所文件显示：腾讯控股于11月24日回购了100万股股票，耗资6.357亿港元。",
@@ -43,9 +43,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "米奥会展：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3009558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "易点天下：经核查，公司控股股东、实际控制人邹小武先生之一致行动人宁波众点易企业管理合伙企业（有限合伙）在股票异动期间存在卖出公司股票的行为。本次减持与此前已披露的意向、减持计划一致。",
+          "url": "https://wallstreetcn.com/livenews/3009553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "上海港湾：经自查，发现部分平台已将公司股票纳入“商业航天概念股”、“钙钛矿电池概念股”。根据经审计的2024年公司财务数据显示，商业航天业务和钙钛矿太阳能业务占公司营收比例不足1%，规模较小，且尚未盈利。上述事项对公司当前主营业务的开展无实质影响。",
+          "url": "https://wallstreetcn.com/livenews/3009551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
@@ -54,9 +87,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "印度国家证券存管有限公司：全球基金在前一交易日净卖出价值162亿卢比的印度股票。",
+          "url": "https://flash.jin10.com/detail/20251124182746073800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "英国数据分析咨询公司GlobalData：将于本周启动一项价值1000万英镑的股票回购计划。",
