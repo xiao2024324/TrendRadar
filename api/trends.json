@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T01:15:05.888368+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-11-26T02:21:05.217889+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Prosus在11月17-21日期间按均价58.0010欧元回购股票110万股，整体耗资0.620亿欧元（折合0.716亿美元）。 Naspers同期按均价1194.3368南非兰特回购41.3705万股，整体耗资4.941亿兰特（折合0.287亿美元）。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251126013932256800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         }
       ]
     }
