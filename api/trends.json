@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T20:28:02.579288+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2025-11-25T21:30:52.101001+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文盘点“聪明钱”动向：美国对冲基金现在都在做空哪些股票？",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 20时28分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 21时30分]"
         },
         {
           "title": "君亭酒店：控股股东吴启元正在筹划公司控制权变更相关事宜，该事项可能导致公司控股股东及实际控制人发生变更，股票停牌。",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时09分]"
+        },
+        {
+          "title": "知情人士：英国计划暂停征收股票税。",
+          "url": "https://flash.jin10.com/detail/20251125211150813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     }
