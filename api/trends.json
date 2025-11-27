@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:15:45.869146+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2025-11-27T19:13:10.674692+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
