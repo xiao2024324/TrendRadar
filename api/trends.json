@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T13:15:13.764784+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-28T14:21:28.283549+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时58分 ~ 14时21分]"
         },
         {
           "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
@@ -26,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时30分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时30分 ~ 14时21分]"
         },
         {
           "title": "纳芯微申请香港IPO。 寻求首次公开发行1910万股股票。 股票发行价指导区间顶端为每股116港元。 预计股票将从12月8日开始交易。",
