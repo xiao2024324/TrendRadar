@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:14:50.062356+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-28T16:19:28.750442+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 16时19分]"
         },
         {
           "title": "摩根大通上调中国股票至“超配” 直言近期调整是入场好时点",
@@ -65,7 +65,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
