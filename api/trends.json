@@ -1,12 +1,37 @@
 {
-  "generated_at": "2025-11-28T12:17:40.378089+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-11-28T13:15:13.764784+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 6,
       "titles": [
+        {
+          "title": "摩根大通上调中国股票至“超配” 直言近期调整是入场好时点",
+          "url": "https://www.cls.cn/detail/2213229",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时15分]"
+        },
+        {
+          "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
+          "url": "https://www.cls.cn/detail/2213415",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 13时15分]"
+        },
         {
           "title": "纳芯微申请香港IPO。 寻求首次公开发行1910万股股票。 股票发行价指导区间顶端为每股116港元。 预计股票将从12月8日开始交易。",
           "url": "https://wallstreetcn.com/livenews/3011676",
@@ -18,31 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "摩根大通上调中国股票至“超配” 直言近期调整是入场好时点",
-          "url": "https://www.cls.cn/detail/2213229",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 12时17分]"
-        },
-        {
-          "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
-          "url": "https://www.cls.cn/detail/2213415",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时17分]"
         },
         {
           "title": "日本11月21日当周外资净买进日本股票 -3487亿日元，前值 10209亿日元。",
