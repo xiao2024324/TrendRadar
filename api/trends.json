@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T08:58:40.728000+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2025-11-28T10:30:54.854613+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "纳芯微申请香港IPO。 寻求首次公开发行1910万股股票。 股票发行价指导区间顶端为每股116港元。 预计股票将从12月8日开始交易。",
@@ -24,11 +24,23 @@
           "url": "https://www.cls.cn/detail/2213229",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时30分]"
+        },
+        {
+          "title": "11月28日投资避雷针：8月22日至11月27日累计上涨452% 这只股票今起停牌核查",
+          "url": "https://www.cls.cn/detail/2213415",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "10时30分"
         },
         {
           "title": "日本11月21日当周外资净买进日本股票 -3487亿日元，前值 10209亿日元。",
@@ -37,7 +49,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -48,7 +60,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -59,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
