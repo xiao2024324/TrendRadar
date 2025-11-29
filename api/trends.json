@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T10:40:48.358340+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2025-11-29T11:42:04.802597+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             22,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时15分 ~ 10时40分]"
+          "appearance_count": 7,
+          "time_info": "[04时15分 ~ 11时42分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
