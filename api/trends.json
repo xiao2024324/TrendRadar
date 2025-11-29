@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T20:24:31.839024+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-11-29T21:22:05.959221+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时10分]"
+        },
+        {
+          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
+          "url": "https://flash.jin10.com/detail/20251129202542922800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     }
