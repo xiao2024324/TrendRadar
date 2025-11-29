@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-29T07:12:59.589173+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-29T08:59:07.401760+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031455925800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 08时59分]"
+        },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251129013457427800",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031455925800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时12分]"
         }
       ]
     }
