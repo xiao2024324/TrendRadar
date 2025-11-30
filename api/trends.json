@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T22:12:16.145759+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-30T23:12:36.967522+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             16,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 22时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时16分 ~ 23时12分]"
         },
         {
           "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
