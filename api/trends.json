@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T22:15:44.213945+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-12-01T23:15:13.907774+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251201223717279800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }
