@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:43:55.899670+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2025-12-01T13:23:08.238248+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中微公司：持股14.93%的股东上海创业投资有限公司拟通过大宗交易方式减持公司股票不超过总股本的1%，即6,261,453股。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 06时12分]"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
