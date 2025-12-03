@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T14:21:45.304115+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-12-03T15:17:01.234205+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://flash.jin10.com/detail/20251203140308852800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时17分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
