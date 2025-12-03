@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T13:14:50.652460+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-12-03T14:21:45.304115+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宁波富豪34亿元股票分给子女",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 06时17分]"
+        },
+        {
+          "title": "野村控股上调印尼股票评级至超配 看好降息周期与内需增长",
+          "url": "https://flash.jin10.com/detail/20251203140308852800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
