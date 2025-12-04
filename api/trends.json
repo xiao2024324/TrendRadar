@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T03:14:27.046277+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-12-05T04:16:16.740670+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2220001",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时16分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -24,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时16分]"
         }
       ]
     }
