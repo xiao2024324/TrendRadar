@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T11:14:36.588888+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-12-04T12:24:40.724724+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[02时21分 ~ 04时16分]"
         },
         {
+          "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
+          "url": "https://www.cls.cn/detail/2219046",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时24分]"
+        },
+        {
           "title": "据知情人士透露，软银参与投资的Symbotic Inc.将为股票出售进行一天的推广。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3014663",
           "source": "华尔街见闻-快讯",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "12月4日投资避雷针：这家上市公司实控人涉嫌内幕交易、信披违法及违规转让股票",
-          "url": "https://www.cls.cn/detail/2219046",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
         },
         {
           "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股收盘）",
