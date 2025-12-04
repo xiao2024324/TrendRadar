@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-05T02:22:06.284876+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-12-05T03:14:27.046277+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 2,
       "titles": [
-        {
-          "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251205013132298800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
         {
           "title": "年内第三高！股票ETF赎回253亿份，为何又遭大举卖出？",
           "url": "https://www.cls.cn/detail/2220001",
@@ -26,8 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时14分]"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251205013132298800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时14分]"
         }
       ]
     }
