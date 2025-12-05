@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T00:17:58.440661+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T01:14:25.958743+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "超千亿险资活水来了！险企投资股票风险因子再度下调，沪深300、科创板等将受益",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时14分]"
+        },
+        {
+          "title": "微软(MSFT.O)年度股东大会上，微软股东投票批准公司所有提案，包括选举12名董事及2026年股票计划。微软股东投票反对全部6项股东提案，其中包括一项要求公司提交人权尽职调查报告的提案。",
+          "url": "https://flash.jin10.com/detail/20251206010413507800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时14分"
         }
       ]
     }
