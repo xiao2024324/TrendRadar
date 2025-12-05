@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T03:11:57.763172+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-12-06T04:15:57.026709+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈按8000亿美元估值出售股票。 该公司CFO最近数日向投资者们通报了股票出售事宜。（华尔街日报）",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
