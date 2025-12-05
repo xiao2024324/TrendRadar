@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T16:19:34.483321+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-12-05T17:16:01.709081+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时19分 ~ 09时02分]"
+        },
+        {
+          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
+          "url": "https://www.cls.cn/detail/2220884",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时14分]"
-        },
-        {
-          "title": "金融监管总局：调整保险公司投资相关股票的风险因子 培育壮大耐心资本",
-          "url": "https://www.cls.cn/detail/2220884",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         }
       ]
     }
