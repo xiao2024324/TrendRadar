@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T19:11:40.365438+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-06T20:24:18.807332+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时24分]"
         },
         {
           "title": "比特币恐将面临2014年以来首次与股票年度走势分离",
