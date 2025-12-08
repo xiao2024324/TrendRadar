@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T22:15:16.097760+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2025-12-08T23:15:39.336786+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "普冉股份：拟以发行股份、可转换公司债券及支付现金的方式购买珠海诺延、元禾璞华、横琴强科持有的诺亚长天49%的股权并募集配套资金。本次交易完成后，诺亚长天将成为上市公司全资子公司，目标公司SHM成为上市公司全资孙公司。目标公司SHM主营业务为提供高性能2D NAND及衍生存储器产品及解决方案。股票复牌。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251208223630048800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }
