@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T01:15:30.681261+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-12-10T02:18:16.703719+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Prosus于12月1-5日当周按均价52.7230欧元回购股票266.8285万股，合计将近1.407亿欧元（折合超1.637亿美元）。 同期，Naspers按均价1063.7397南非兰特回购87.0370万股，合计超9.258亿兰特（折合0.544亿美元）。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251210013249078800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
