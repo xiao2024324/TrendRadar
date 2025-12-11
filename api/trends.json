@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T06:14:35.418137+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-12-12T07:14:16.378341+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时14分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
