@@ -1,146 +1,18 @@
 {
-  "generated_at": "2025-12-17T23:16:46.427432+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2025-12-18T00:19:37.002802+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
         {
-          "title": "东兴证券：审议通过中金吸收合并东兴证券、信达证券 股票明日复牌",
-          "url": "https://wallstreetcn.com/livenews/3022323",
+          "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
+          "url": "https://wallstreetcn.com/livenews/3022502",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "信达证券：审议通过中金吸收合并东兴证券、信达证券议案 股票明日复牌",
-          "url": "https://wallstreetcn.com/livenews/3022319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "Truist Financial（TFC）宣布100亿美元股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3021886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时14分]"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251217050556170800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时14分 ~ 07时14分]"
-        },
-        {
-          "title": "美克家居：正在筹划通过发行股份及支付现金的方式收购深圳万德溙光电科技有限公司控制权，并募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3022363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时28分]"
-        },
-        {
-          "title": "联创电子：江西鑫盛正在筹划有关协议转让所持有的公司部分股权等事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3022425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
-        },
-        {
-          "title": "宁德时代：注销2404份股票期权",
-          "url": "https://wallstreetcn.com/livenews/3022420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
-        },
-        {
-          "title": "锋龙股份：公司控股股东及实控人正在筹划公司控制权变更相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3022395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251217223652356800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "据知情人士透露，Medline考虑将美国IPO股票发行价定在每股29美元，讨论将融资规模扩大至70亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3021900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251217013833784800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "加密货币交易所HashKey将香港IPO股票发行价定在6.68港元",
-          "url": "https://wallstreetcn.com/livenews/3021792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
