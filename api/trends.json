@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T22:16:52.112863+08:00",
-  "total_titles_processed": 2086,
+  "generated_at": "2025-12-18T23:16:06.774190+08:00",
+  "total_titles_processed": 2198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "旭升集团：徐旭东先生及其一致行动人宁波梅山保税港区旭晟控股有限公司、香港旭日实业有限公司正在筹划涉及所持有公司股份转让事宜，该事项可能导致公司的控制权变更，股票停牌。",
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251218224104340800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
