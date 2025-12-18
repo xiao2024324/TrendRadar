@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T01:18:18.291624+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-19T02:21:28.012400+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中东股市收盘播报｜周四（12月18日），沙特证交所全股指数收涨0.35%，报10450.27点，脱离2023年10月24日（收报10379.71点）以来最低收盘位10414.06点，本周（连续五个自然日）累计下跌2.48%。 沙特阿美（ARAMCO.AB）收涨0.21%，报23.65沙特里亚尔，本周累跌1.08%。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.87%，报11.58沙特里亚尔，本周累跌1.03%。",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时18分]"
+        },
+        {
+          "title": "宝马：将启动第二轮股票回购计划，第二期金额最高可达6.25亿欧元，最迟将于明年1月2日至8月31日举行。",
+          "url": "https://flash.jin10.com/detail/20251219013455987800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251219013118998800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         }
       ]
     }
