@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T01:14:21.770143+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-12-20T02:20:19.961488+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "持续加码！股票私募仓位再创年内新高，“满仓状态”占比首超七成",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251220013126779800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     }
