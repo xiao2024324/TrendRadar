@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-20T11:45:26.268950+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2025-12-20T12:19:59.902272+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
+          "url": "https://flash.jin10.com/detail/20251220114215719800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251220080420639800",
