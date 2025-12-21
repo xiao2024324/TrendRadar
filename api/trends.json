@@ -1,29 +1,7 @@
 {
-  "generated_at": "2025-12-21T23:13:06.822298+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-12-22T00:15:34.446227+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "观想科技：筹划发行股份购买资产，股票明起停牌",
-          "url": "https://wallstreetcn.com/livenews/3024398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            20,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
