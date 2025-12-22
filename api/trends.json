@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-22T09:06:57.390026+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-12-22T11:27:11.685071+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "12月22日投资避雷针：两公司因年报造假 股票将被实施ST",
+          "url": "https://www.cls.cn/detail/2235849",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
         {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
           "url": "https://flash.jin10.com/detail/20251222082406585800",
@@ -14,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
