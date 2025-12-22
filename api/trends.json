@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:19:29.005178+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2025-12-22T14:24:10.403781+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时24分]"
         },
         {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
