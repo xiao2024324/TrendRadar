@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:34:31.115266+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-12-22T13:19:29.005178+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2235849",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时19分]"
         },
         {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
