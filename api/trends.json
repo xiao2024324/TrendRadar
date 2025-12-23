@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T00:18:25.151250+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T01:15:43.867419+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3025684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时15分]"
         }
       ]
     }
