@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T22:15:23.774397+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-12-23T23:14:56.918477+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国股票又获唱多！高盛：明年将继续“牛” 到2027年底有望再涨38%",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251223223756167800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "千问发布 2025 十大 AI 提示词，股票意外排名第一，普通人如何用 AI 做好投资？",
