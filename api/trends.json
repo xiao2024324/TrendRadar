@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T22:14:18.371609+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2025-12-24T23:15:17.166805+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "金银又双双突破新高！亚洲市场矿业股票全年涨势如虹",
@@ -198,6 +198,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251224223626689800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美股开盘，道指跌0.1%，标普500指数跌0.03%，纳指跌0.02%。英特尔(INTC.O)跌3%，消息称英伟达暂停测试其18A制程工艺。耐克(NKE.N)涨3%，苹果CEO库克斥资约295万美元买入50000股耐克股票。德纳维制药(DVAX.O)涨38%，创四年来最大涨幅，赛诺菲斥资22亿美元收购德纳维制药。",
+          "url": "https://flash.jin10.com/detail/20251224223029222800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }
