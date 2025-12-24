@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:19:25.946953+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-12-24T14:23:00.890113+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "金银又双双突破新高！亚洲市场矿业股票全年涨势如虹",
+          "url": "https://www.cls.cn/detail/2238457",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 14时23分]"
         },
         {
           "title": "Prosus在12月15-19日当周按均价52.5667欧元回购股票270万股，合计1.414亿欧元（折合1.660亿美元）。 同期，Naspers按均价1094.1394南非兰特回购股票113.7117万股，合计12.441亿兰特（折合0.743亿美元）。",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
-        },
-        {
-          "title": "金银又双双突破新高！亚洲市场矿业股票全年涨势如虹",
-          "url": "https://www.cls.cn/detail/2238457",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     }
