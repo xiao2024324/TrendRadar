@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T22:15:46.541717+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2025-12-29T23:15:08.896516+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "五矿发展：拟通过资产置换等方式购买五矿矿业股权及鲁中矿业股权 股票停牌",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时33分 ~ 22时15分]"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251229224031885800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "港交所文件显示，渣打银行于12月24日在其他交易所回购了总计288,845股股票，金额为520万英镑。",
