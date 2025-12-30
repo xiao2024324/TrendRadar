@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T05:13:52.795575+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-12-31T06:14:12.571070+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251231050526825800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时14分]"
         },
         {
           "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
