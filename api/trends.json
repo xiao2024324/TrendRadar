@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-31T17:18:24.001696+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-12-31T18:15:14.218385+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "港交所公告显示，渣打银行于12月30日在其他交易所回购了总计533,652股股票，金额为970万英镑。",
+          "url": "https://flash.jin10.com/detail/20251231172239775800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251231050526825800",
