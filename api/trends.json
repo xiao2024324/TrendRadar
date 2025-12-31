@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T03:11:16.055827+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-01T04:15:22.561800+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 04时15分]"
         },
         {
           "title": "得润电子：因财务虚假记载被实施其他风险警示，股票简称变更为“ST得润”。",
