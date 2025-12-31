@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T18:15:14.218385+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-31T19:14:01.809346+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "港交所公告显示，渣打银行于12月30日在其他交易所回购了总计533,652股股票，金额为970万英镑。",
@@ -14,9 +14,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "深交所就修订《股票上市规则》等业务规则公开征求意见：强化董秘职责定位，完善董事、高管任职管理",
+          "url": "https://wallstreetcn.com/livenews/3029291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -54,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
+        },
+        {
+          "title": "中微公司：拟购买杭州众硅64.69%股权 股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3029283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
