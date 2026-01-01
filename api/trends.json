@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:29:48.922593+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-01T22:14:11.835026+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[17时18分 ~ 22时14分]"
+        },
+        {
+          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
+          "url": "https://wallstreetcn.com/articles/3762416",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减27,949手合约，至936,689手。股票基金投机者将标普500芝商所（CME）净空头头寸削减18,436手合约，至372,091手。",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时14分]"
-        },
-        {
-          "title": "“股票盛世”！全球股市连续第3年“两位数上涨”",
-          "url": "https://wallstreetcn.com/articles/3762416",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时29分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
