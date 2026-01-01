@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T16:20:15.232254+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-01-01T17:18:56.471255+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减27,949手合约，至936,689手。股票基金投机者将标普500芝商所（CME）净空头头寸削减18,436手合约，至372,091手。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
+          "url": "https://wallstreetcn.com/articles/3762420",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "得润电子：因财务虚假记载被实施其他风险警示，股票简称变更为“ST得润”。",
