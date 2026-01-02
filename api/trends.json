@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T22:14:54.970748+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-02T23:15:22.936200+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260102223725468800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }
