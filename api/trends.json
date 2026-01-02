@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:13:34.931872+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-01-02T20:27:11.389025+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
@@ -57,6 +58,30 @@
           "time_info": "[12时35分 ~ 14时23分]"
         },
         {
+          "title": "意法半导体在米兰上市的股票恢复交易，现涨4.5%。",
+          "url": "https://flash.jin10.com/detail/20260102185412997800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时27分]"
+        },
+        {
+          "title": "意法半导体在米兰上市的股票在上涨4.49%后触发盘中停牌。",
+          "url": "https://flash.jin10.com/detail/20260102185207769800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时27分]"
+        },
+        {
           "title": "韩国央行行长：韩元汇率走低，部分原因在于韩国加大了对海外股票的投资。",
           "url": "https://flash.jin10.com/detail/20260102113019204800",
           "source": "金十数据",
@@ -67,28 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时19分]"
-        },
-        {
-          "title": "意法半导体在米兰上市的股票恢复交易，现涨4.5%。",
-          "url": "https://flash.jin10.com/detail/20260102185412997800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "意法半导体在米兰上市的股票在上涨4.49%后触发盘中停牌。",
-          "url": "https://flash.jin10.com/detail/20260102185207769800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "港交所公告显示，渣打银行于12月31日在其他交易所回购了总计294,230股股票，金额为540万英镑。",
