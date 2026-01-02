@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:15:06.390846+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-02T19:13:34.931872+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "股神谢幕！伯克希尔生涯最后一年，巴菲特坚决“卖股票，囤现金”",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/livenews/3029807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
@@ -68,13 +69,35 @@
           "time_info": "[12时35分 ~ 13时19分]"
         },
         {
+          "title": "意法半导体在米兰上市的股票恢复交易，现涨4.5%。",
+          "url": "https://flash.jin10.com/detail/20260102185412997800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "意法半导体在米兰上市的股票在上涨4.49%后触发盘中停牌。",
+          "url": "https://flash.jin10.com/detail/20260102185207769800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "港交所公告显示，渣打银行于12月31日在其他交易所回购了总计294,230股股票，金额为540万英镑。",
           "url": "https://flash.jin10.com/detail/20260102174153317800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         }
