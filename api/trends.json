@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T20:27:11.389025+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-02T21:29:05.237511+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             4,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时29分]"
         },
         {
           "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
