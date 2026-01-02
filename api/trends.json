@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T13:19:34.924072+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-01-02T14:23:20.754390+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时23分]"
         },
         {
           "title": "韩国央行行长：韩元汇率走低，部分原因在于韩国加大了对海外股票的投资。",
