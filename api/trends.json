@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:18:40.843475+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-03T17:14:24.487671+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             11,
             13,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 17时14分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
