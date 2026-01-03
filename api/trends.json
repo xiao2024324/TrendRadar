@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:27:12.111354+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-01-03T13:15:49.974238+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             1,
             4,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 13时15分]"
         },
         {
           "title": "新兴市场股票2026年开局强劲，科技股受亚洲人工智能热潮提振",
@@ -57,11 +58,12 @@
           "ranks": [
             7,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览",
