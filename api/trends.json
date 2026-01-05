@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-05T19:14:30.910625+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-01-05T20:31:38.935797+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "高盛：建议高配中国股票",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%9B%9B%EF%BC%9A%E5%BB%BA%E8%AE%AE%E9%AB%98%E9%85%8D%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "*ST亚太：申请撤销公司股票因重整而被实施退市风险警示，继续被实施退市风险警示。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时18分]"
+        },
+        {
+          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
+          "url": "https://flash.jin10.com/detail/20260105200457445800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "高盛建议：高配中国股票",
