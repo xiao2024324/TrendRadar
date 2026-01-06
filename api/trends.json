@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:21:14.632558+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-01-06T16:21:20.976537+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -38,7 +38,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "12连阳，沪指创33年最长连阳纪录！高盛：建议高配中国股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32320112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
