@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T14:23:24.787562+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-01-06T15:21:14.632558+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时16分]"
+        },
+        {
+          "title": "保诚集团（Prudential）将启动最高达12亿美元的股票回购计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3031452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加6,233手合约，至942,921手。股票基金投机者将标普500芝商所（CME）净空头头寸削减7,688手合约，至364,403手。",
