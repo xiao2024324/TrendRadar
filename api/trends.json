@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:13:54.350607+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-06T20:29:29.962303+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -33,6 +33,42 @@
           "time_info": "[16时21分 ~ 18时16分]"
         },
         {
+          "title": "国晟科技：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3031635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
+          "title": "德赛西威：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3031629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
+          "title": "农心科技：公司股票异常波动期间，宁波农旗通过集中竞价交易方式减持公司股份54.15万股，占公司总股本0.5418%。",
+          "url": "https://wallstreetcn.com/livenews/3031617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260106013941390800",
           "source": "金十数据",
@@ -43,17 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时16分]"
-        },
-        {
-          "title": "国晟科技：股价涨幅异常，股票停牌核查。",
-          "url": "https://wallstreetcn.com/livenews/3031635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "保诚集团（Prudential）将启动最高达12亿美元的股票回购计划。（彭博）",
@@ -67,26 +92,15 @@
           "time_info": "15时21分"
         },
         {
-          "title": "德赛西威：筹划发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://wallstreetcn.com/livenews/3031629",
+          "title": "嘉美包装：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3031655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "农心科技：公司股票异常波动期间，宁波农旗通过集中竞价交易方式减持公司股份54.15万股，占公司总股本0.5418%。",
-          "url": "https://wallstreetcn.com/livenews/3031617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "20时29分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加6,233手合约，至942,921手。股票基金投机者将标普500芝商所（CME）净空头头寸削减7,688手合约，至364,403手。",
