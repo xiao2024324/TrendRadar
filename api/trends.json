@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:18:15.044574+08:00",
-  "total_titles_processed": 2109,
+  "generated_at": "2026-01-07T23:17:53.402382+08:00",
+  "total_titles_processed": 2210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260107223635049800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "北方导航：近期，部分网站、股吧将公司股票纳入商业航天板块。本公司从未发布过相关公告，且公司在商业航天领域无相关业务，也未取得相关订单。",
