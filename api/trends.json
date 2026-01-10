@@ -1,74 +1,7 @@
 {
-  "generated_at": "2026-01-10T23:13:46.155277+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-01-11T00:16:19.035782+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
-          "url": "https://wallstreetcn.com/livenews/3034439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 09时03分]"
-        },
-        {
-          "title": "航天电子：股票交易异常波动",
-          "url": "https://www.toutiao.com/trending/7593021166730838052/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 07时14分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
-          "url": "https://flash.jin10.com/detail/20260110043120533800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时14分]"
-        },
-        {
-          "title": "据知情人士透露，校车公司First Student已经为其美国IPO计划遴选银行机构。 这家获得殷拓EQT AB支持的公司正与高盛、摩根士丹利、加拿大皇家银行围绕其首次公开发行股票而合作。 买断公司EQT曾在2025年后期与潜在（承销行）顾问们进行过初步的讨论。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3034446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时03分]"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260110013122783800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
