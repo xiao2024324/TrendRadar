@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-01-11T23:13:44.958458+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-01-12T00:16:49.535377+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "嘉美包装：停牌核查已完成 股票复牌",
-          "url": "https://wallstreetcn.com/livenews/3034655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
