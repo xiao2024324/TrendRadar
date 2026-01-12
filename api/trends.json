@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:14:41.867889+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-01-13T06:14:03.499022+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国银行：因利率周期而上调巴西股票评级至超配。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股盘中）",
