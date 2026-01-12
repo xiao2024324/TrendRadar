@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:15:39.510133+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-01-12T20:31:41.327618+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -40,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -86,9 +86,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "ST易事特：公司股票自2026年1月14日（星期三）开市起撤销其他风险警示，股票简称变更为“易事特”。",
+          "url": "https://wallstreetcn.com/livenews/3035306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "世茂能源：筹划控制权变更 公司股票将于1月13日继续停牌",
@@ -102,13 +113,35 @@
           "time_info": "18时19分"
         },
         {
+          "title": "志特新材：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3035290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "青木科技：经核查，公司控股股东、实际控制人吕斌先生及一致行动人允宜合伙在股票异动期间存在卖出公司股票的行为。",
+          "url": "https://wallstreetcn.com/livenews/3035284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "值得买：公司注意到近期市场对MiniMax相关概念关注度较高，部分平台将公司股票纳入MiniMax概念股。MiniMax旗下大模型产品海螺AI现已接入值得买“消费大模型增强工具集”，基于海螺AI比价策略，用户可通过海螺AI“悬浮球”功能实现快速比价及跳转购买。目前，该合作事项对公司当前主营业务未构成实质性影响。",
           "url": "https://wallstreetcn.com/livenews/3035215",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
