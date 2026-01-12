@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-12T12:44:14.779900+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-01-12T13:25:07.320594+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 3,
       "titles": [
+        {
+          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
+          "url": "https://www.cls.cn/detail/2254278",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 13时25分]"
+        },
         {
           "title": "廉价航空公司Allegiant将按15亿美元（现金+股票）收购竞争对手Sun Country。",
           "url": "https://wallstreetcn.com/livenews/3034776",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
-          "title": "1月12日投资避雷针：因股票交易异常波动公告涉嫌重大遗漏等 这只大牛股被证监会立案",
-          "url": "https://www.cls.cn/detail/2254278",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "小米17背屏支持查看股票行情",
