@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T15:22:10.821220+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-12T16:22:24.409277+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             8,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 16时22分]"
         },
         {
           "title": "廉价航空公司Allegiant将按15亿美元（现金+股票）收购竞争对手Sun Country。",
