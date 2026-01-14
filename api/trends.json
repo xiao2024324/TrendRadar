@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:17:49.118194+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-01-14T19:15:37.483237+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -53,13 +53,24 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
+          "title": "【上交所发布关于国晟科技相关情况的通报：对相关投资者采取了暂停账户交易等自律监管措施】国晟科技近期多次出现异常波动情形，公司已多次发布风险提示公告，提请广大投资者审慎投资，注意投资风险。近日，该股股价继续大幅波动，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，上交所依规对相关投资者采取了暂停账户交易等自律监管措施。上交所再次提醒投资者关注风险，审慎参与，合规交易。",
+          "url": "https://wallstreetcn.com/livenews/3036961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "光云科技：如未来公司股票价格进一步异常上涨，公司可能申请停牌核查",
           "url": "https://wallstreetcn.com/livenews/3036887",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -95,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "科达制造：正在筹划以发行股份及支付现金的方式收购公司控股子公司广东特福国际控股有限公司的少数股权，同时募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3036925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     }
