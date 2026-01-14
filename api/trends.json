@@ -1,179 +1,22 @@
 {
-  "generated_at": "2026-01-14T23:19:21.185433+08:00",
-  "total_titles_processed": 2231,
+  "generated_at": "2026-01-15T00:21:14.066337+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
           "url": "https://www.cls.cn/detail/2257888",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 23时19分]"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260114050526199800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "容百科技：延期回复上海证券交易所《问询函》，公司股票继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3037070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "紫光国微：拟通过发行股份及支付现金的方式向南昌建恩、北京广盟、天津瑞芯、建投华科等14名交易对方购买其合计持有的瑞能半导100%股权，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3036903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3037064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "五矿发展：董事会审议通过公司重大资产置换等议案，股票复牌",
-          "url": "https://wallstreetcn.com/livenews/3036901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "上纬新材：如未来股票价格进一步上涨，公司将进一步申请停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3036863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
-        },
-        {
-          "title": "【上交所发布关于国晟科技相关情况的通报：对相关投资者采取了暂停账户交易等自律监管措施】国晟科技近期多次出现异常波动情形，公司已多次发布风险提示公告，提请广大投资者审慎投资，注意投资风险。近日，该股股价继续大幅波动，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，上交所依规对相关投资者采取了暂停账户交易等自律监管措施。上交所再次提醒投资者关注风险，审慎参与，合规交易。",
-          "url": "https://wallstreetcn.com/livenews/3036961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "光云科技：如未来公司股票价格进一步异常上涨，公司可能申请停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3036887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "龙旗科技申请香港IPO。 该公司寻求发行大约5200万股股票，发行价指导区间顶端为每股31港元。 据彭博测算，该公司拟融资至多16亿港元（折合2.05亿美元）。 预计股票将从1月22日开始交易。",
-          "url": "https://wallstreetcn.com/livenews/3036436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013126429800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "鼎龙股份：筹划发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://wallstreetcn.com/livenews/3036833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "因公司上调全年营收预期，印孚瑟斯（Infosys）在美上市股票上涨4.1%。",
-          "url": "https://flash.jin10.com/detail/20260114223230697800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "科达制造：正在筹划以发行股份及支付现金的方式收购公司控股子公司广东特福国际控股有限公司的少数股权，同时募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3036925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "嘉美包装：如未来公司股票价格进一步异常上涨，公司可能再次申请停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3037129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
