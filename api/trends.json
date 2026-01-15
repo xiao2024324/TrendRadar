@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:21:05.208935+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-01-15T14:23:02.678670+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 14时23分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "韩国养老基金：未就调整外汇对冲和国内股票投资比例进行内部讨论。",
+          "url": "https://flash.jin10.com/detail/20260115133001494800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }
