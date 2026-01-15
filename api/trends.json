@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-01-16T04:17:26.260607+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-01-16T05:15:53.709106+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "华尔街大银行2025年派息和股票回购创下纪录最高水平",
-          "url": "https://wallstreetcn.com/livenews/3038187",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "05时15分"
         },
         {
           "title": "高盛股价涨幅扩大至5%，投资者关注其股票交易收入。",
@@ -24,11 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时15分]"
+        },
+        {
+          "title": "华尔街大银行2025年派息和股票回购创下纪录最高水平",
+          "url": "https://wallstreetcn.com/livenews/3038187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "time_info": "[04时17分 ~ 05时15分]"
         },
         {
           "title": "高盛、大摩营收刷纪录 传统投行制霸股票交易",
