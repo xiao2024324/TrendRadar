@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T07:13:31.050519+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-01-15T09:04:18.571364+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时04分]"
+        },
+        {
+          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
+          "url": "https://www.cls.cn/detail/2258174",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
