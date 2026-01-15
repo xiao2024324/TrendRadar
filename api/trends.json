@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:19:51.304048+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2026-01-15T23:18:17.698682+08:00",
+  "total_titles_processed": 2258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "长期股票投资试点再迎增量资金：鸿鹄志远三期3号成立，11只险资私募证券基金投入运作丨独家",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260115223844779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
