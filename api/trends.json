@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T17:20:19.716189+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-01-16T18:16:25.709494+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美光科技董事780万美元增持股票",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
-        },
-        {
-          "title": "证监会同意杭州福恩股份有限公司首次公开发行股票注册。",
-          "url": "https://wallstreetcn.com/livenews/3038657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "高盛股价涨幅扩大至5%，投资者关注其股票交易收入。",
@@ -79,6 +68,30 @@
           "time_info": "[12时34分 ~ 13时20分]"
         },
         {
+          "title": "证监会同意杭州福恩股份有限公司首次公开发行股票注册。",
+          "url": "https://wallstreetcn.com/livenews/3038657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时16分]"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时16分]"
+        },
+        {
           "title": "知名投资人麦朴思：中国股票的涨势看起来“可持续”，受科技股支撑。建议投资者关注中国、印度、韩国和中国台湾。",
           "url": "https://wallstreetcn.com/livenews/3038470",
           "source": "华尔街见闻-快讯",
@@ -102,17 +115,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3038653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股午盘收盘行情一览：小金属、光伏股票上涨，银行、保险股全面走低",
           "url": "https://flash.jin10.com/detail/20260116113423989800",
           "source": "金十数据",
@@ -122,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "鼎信通讯：公司董事兼副总经理袁志双因涉嫌短线交易公司股票，收到中国证监会出具的《立案告知书》。",
+          "url": "https://wallstreetcn.com/livenews/3038669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
@@ -174,7 +187,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
