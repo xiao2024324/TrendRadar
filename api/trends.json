@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:17:53.167660+08:00",
-  "total_titles_processed": 2011,
+  "generated_at": "2026-01-16T23:17:23.035466+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美光科技董事780万美元增持股票",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260116225402994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
