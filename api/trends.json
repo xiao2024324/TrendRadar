@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:16:25.709494+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-01-16T19:14:42.820118+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美光科技董事780万美元增持股票",
@@ -132,7 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、航天动力、天普股份、上纬新材等波动幅度较大的股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3038707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "日本至1月9日当周买进外国股票 275亿日元，前值2366亿日元。",
