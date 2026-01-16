@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-16T11:24:58.372381+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-16T12:34:20.808546+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "报道：香港财政司司长表示没有降低股票印花税的计划",
+          "url": "https://wallstreetcn.com/livenews/3038456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
         {
           "title": "高盛股价涨幅扩大至5%，投资者关注其股票交易收入。",
           "url": "https://wallstreetcn.com/livenews/3038179",
@@ -56,6 +67,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "金十图示：2026年01月16日（周五）富时中国A50指数成分股午盘收盘行情一览：小金属、光伏股票上涨，银行、保险股全面走低",
+          "url": "https://flash.jin10.com/detail/20260116113423989800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260116013113671800",
           "source": "金十数据",
@@ -65,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "香港财政司司长陈茂波：不会下调股票印花税，本财年印花税增加主要来自股票。（香港电台网）",
+          "url": "https://wallstreetcn.com/livenews/3038435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "日本至1月9日当周买进外国股票 275亿日元，前值2366亿日元。",
