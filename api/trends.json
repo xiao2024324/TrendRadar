@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:15:04.633162+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-01-18T18:15:24.078546+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
         }
       ]
     }
