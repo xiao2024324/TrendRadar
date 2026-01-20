@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T05:15:41.384739+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-01-21T06:16:15.987963+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260121050558433800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "Prosus于1月12-16日按均价54.6030欧元回购股票170.0439万股，合计0.928亿欧元（折合1.080亿美元）。 Naspers同期按均价1122.6498南非兰特回购68.0516万股，合计7.640亿兰特（折合0.466亿美元）。",
