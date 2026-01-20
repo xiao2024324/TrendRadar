@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:28:18.881575+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-20T12:39:18.801216+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -20,23 +20,24 @@
           "time_info": "[00时20分 ~ 01时18分]"
         },
         {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 12时39分]"
+        },
+        {
           "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
           "url": "https://www.cls.cn/detail/2262717",
           "source": "财联社热门",
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 11时28分]"
-        },
-        {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
