@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:22:21.135613+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-01-21T16:22:29.625253+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 16时22分]"
         },
         {
           "title": "桥水看好中国股票，其境内对冲基金2025年上涨45%。",
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
