@@ -1,170 +1,44 @@
 {
-  "generated_at": "2026-01-23T23:18:52.377295+08:00",
-  "total_titles_processed": 2245,
+  "generated_at": "2026-01-24T00:20:56.885329+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260123050525773800",
-          "source": "金十数据",
+          "title": "如何看待自然人余韩被证监会罚没超 10 亿，曾用 67 个账户操纵博士眼镜股票五年？有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1998083159221352027",
+          "source": "知乎",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "据英国金融时报：奈飞(NFLX.O)联席首席执行官表示，为支持派拉蒙提出的针对整家公司的1080亿美元敌意收购要约，只有“极少数”的华纳兄弟探索公司（WBD）股票被提交要约收购。",
-          "url": "https://flash.jin10.com/detail/20260123130330654800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "龙韵股份：拟筹划以发行股份的方式购买新疆愚恒影业集团有限公司58%股权，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3042939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时38分]"
-        },
-        {
-          "title": "余韩操纵股票被证监会罚没超10亿元",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E9%9F%A9%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%BD%9A%E6%B2%A1%E8%B6%8510%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时18分]"
-        },
-        {
-          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
-          "url": "https://wallstreetcn.com/articles/3763920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时23分]"
-        },
-        {
-          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260123024054852800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时18分]"
+          "time_info": "00时20分"
         },
         {
           "title": "航天电子：股票存在短期大幅下跌风险",
           "url": "https://www.toutiao.com/trending/7598148996133027849/",
           "source": "今日头条",
           "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3042326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "00时20分"
         },
         {
-          "title": "如何看待自然人余韩被证监会罚没超 10 亿，曾用 67 个账户操纵博士眼镜股票五年？有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1998083159221352027",
-          "source": "知乎",
+          "title": "余韩操纵股票被证监会罚没超10亿元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E9%9F%A9%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%BD%9A%E6%B2%A1%E8%B6%8510%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "“抛售美国”势头强劲 新兴市场股票和黄金飙升",
-          "url": "https://flash.jin10.com/detail/20260123123658993800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "在银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨1.2%，库尔矿业上涨0.7%，西尔弗科普金属上涨0.7%，恩迪沃银业上涨1.5%，ABRDN实物白银股票ETF上涨2.1%，Global X白银矿业ETF上涨1%，iShares白银信托上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260123172804674800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "航天电子：公司股票击鼓传花效应明显 存在短期大幅下跌的风险",
-          "url": "https://wallstreetcn.com/livenews/3042864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260123223746516800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、天普股份、上纬新材等波动幅度较大的股票进行重点监控",
-          "url": "https://wallstreetcn.com/livenews/3042853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "00时20分"
         }
       ]
     }
