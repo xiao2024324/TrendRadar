@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-01-24T00:20:56.885329+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-24T01:21:49.819061+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待自然人余韩被证监会罚没超 10 亿，曾用 67 个账户操纵博士眼镜股票五年？有哪些警示意义？",
           "url": "https://www.zhihu.com/question/1998083159221352027",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时21分]"
         },
         {
           "title": "航天电子：股票存在短期大幅下跌风险",
           "url": "https://www.toutiao.com/trending/7598148996133027849/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时21分]"
+        },
+        {
+          "title": "美股银矿股上涨，Hecla Mining上涨1.3%，Coeur Mining上涨0.3%，ABRDN实物白银股票ETF上涨4%，Global X白银矿业ETF上涨1.8%，iShares白银信托上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260124001040870800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "01时21分"
         },
         {
           "title": "余韩操纵股票被证监会罚没超10亿元",
