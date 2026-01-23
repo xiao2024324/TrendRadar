@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T03:20:12.710260+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-24T04:18:11.751520+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "航天电子：股票存在短期大幅下跌风险",
@@ -30,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "余韩操纵股票被证监会罚没超10亿元",
@@ -39,11 +40,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
