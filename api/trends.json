@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:38:36.078768+08:00",
-  "total_titles_processed": 2070,
+  "generated_at": "2026-01-23T22:19:38.983058+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -42,6 +42,19 @@
           "time_info": "[20时31分 ~ 21时38分]"
         },
         {
+          "title": "余韩操纵股票被证监会罚没超10亿元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E9%9F%A9%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%BD%9A%E6%B2%A1%E8%B6%8510%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时19分]"
+        },
+        {
           "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
           "url": "https://wallstreetcn.com/articles/3763920",
           "source": "华尔街见闻",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时18分]"
-        },
-        {
-          "title": "余韩操纵股票被证监会罚没超10亿元",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E9%9F%A9%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%BD%9A%E6%B2%A1%E8%B6%8510%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时38分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "航天电子：股票存在短期大幅下跌风险",
+          "url": "https://www.toutiao.com/trending/7598148996133027849/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、天普股份、上纬新材等波动幅度较大的股票进行重点监控",
