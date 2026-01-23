@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T12:36:43.690024+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-01-23T13:23:10.515305+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "据英国金融时报：奈飞(NFLX.O)联席首席执行官表示，为支持派拉蒙提出的针对整家公司的1080亿美元敌意收购要约，只有“极少数”的华纳兄弟探索公司（WBD）股票被提交要约收购。",
+          "url": "https://flash.jin10.com/detail/20260123130330654800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "“抛售美国”势头强劲 新兴市场股票和黄金飙升",
+          "url": "https://flash.jin10.com/detail/20260123123658993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
