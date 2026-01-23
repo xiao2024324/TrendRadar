@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T14:23:46.315402+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-01-23T15:20:51.699197+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股收盘）",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "“抛售美国”势头强劲 新兴市场股票和黄金飙升",
