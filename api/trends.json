@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:15:56.597054+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-28T09:06:57.962424+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "MSCI对印尼股票指数调整实施临时冻结。",
+          "url": "https://wallstreetcn.com/livenews/3045070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     }
