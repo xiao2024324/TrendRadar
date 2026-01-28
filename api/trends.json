@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-28T09:06:57.962424+08:00",
-  "total_titles_processed": 840,
-  "failed_sources": [],
+  "generated_at": "2026-01-28T11:32:28.073687+08:00",
+  "total_titles_processed": 968,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "股票",
@@ -36,7 +38,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
