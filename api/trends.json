@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-29T07:20:34.517273+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-01-29T09:16:34.391128+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "新加坡股票星展银行股价首次触及60.00新元，创盘中新高。",
+          "url": "https://flash.jin10.com/detail/20260129090556704800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013122619800",
