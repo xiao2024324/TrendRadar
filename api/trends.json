@@ -1,132 +1,22 @@
 {
-  "generated_at": "2026-01-29T23:29:35.319099+08:00",
-  "total_titles_processed": 2241,
+  "generated_at": "2026-01-30T00:34:17.257695+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "佳能将回购最多2000亿日元的股票。",
-          "url": "https://wallstreetcn.com/livenews/3046180",
+          "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3046567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "挪威石油基金：科技、金融和基础材料股票对整体回报作出了重大贡献。",
-          "url": "https://flash.jin10.com/detail/20260129151550242800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "摩根士丹利：将微软(MSFT.O)移出首选股票名单。",
-          "url": "https://flash.jin10.com/detail/20260129191310843800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "挪威石油基金：2025年回报率为15.1%，固定收益投资回报率为5.4%，股票投资回报率为19.3%。",
-          "url": "https://flash.jin10.com/detail/20260129151447577800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "量化股票交易规则或变化？不实",
-          "url": "https://www.toutiao.com/trending/7599563495474184218/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
-        },
-        {
-          "title": "新加坡股票星展银行股价首次触及60.00新元，创盘中新高。",
-          "url": "https://flash.jin10.com/detail/20260129090556704800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "印度尼西亚金融监管机构：自律组织将实施15%的股票自由流通量要求。",
-          "url": "https://flash.jin10.com/detail/20260129140916797800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260129013122619800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "德意志银行第四季度净营收77.3亿欧元，预估76.4亿欧元。 第四季度除税前利润20.3亿欧元，预估19.5亿欧元。 四季度净利润13.0亿欧元，上年同期1.06亿欧元。 德意志银行批准10亿欧元股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3046151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "Meta Platforms(META.O)股票盘后涨幅扩大至逾5%。",
-          "url": "https://flash.jin10.com/detail/20260129052724865800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
-          "url": "https://flash.jin10.com/detail/20260129051658551800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时34分"
         }
       ]
     }
