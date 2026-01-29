@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:20:36.033310+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-01-30T06:20:46.526356+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时25分]"
+        },
+        {
+          "title": "澜起科技申请香港IPO。 寻求发行股票6590万股，发行价指导区间上端为每股106.89港元。 预计股票将于2月5日定价，将从2月9日开始交易。",
+          "url": "https://wallstreetcn.com/livenews/3046716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
