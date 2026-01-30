@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:02:42.901517+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-01-30T13:41:29.391229+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[03时25分 ~ 04时21分]"
         },
         {
+          "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
+          "url": "https://www.cls.cn/detail/2274999",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时41分]"
+        },
+        {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260130013122983800",
           "source": "金十数据",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
-          "url": "https://www.cls.cn/detail/2274999",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
