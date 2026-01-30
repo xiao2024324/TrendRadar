@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T15:35:52.507866+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-30T16:29:34.564719+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时29分]"
         },
         {
           "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
@@ -75,7 +75,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
