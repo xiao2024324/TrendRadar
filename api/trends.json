@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T02:31:39.547754+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-01-31T03:27:22.257543+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时27分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览（美股盘中）",
@@ -25,7 +25,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
