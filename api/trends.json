@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:50:30.922477+08:00",
-  "total_titles_processed": 2011,
+  "generated_at": "2026-01-30T22:30:57.325087+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "1月30日投资避雷针：奥特迅、国中水务等公司发布年报预告 称股票交易可能被实施ST",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时02分 ~ 16时29分]"
+        },
+        {
+          "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2000501017222090916",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 22时30分]"
         },
         {
           "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时36分]"
-        },
-        {
-          "title": "高盛 CEO 认为，二三十岁的打工人应多投股票而非黄金，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2000501017222090916",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时50分]"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "威瑞森（Verizon）批准总额达250亿美元的股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3047421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "南非主要股票指数下跌1.1%至123,858.10点。",
