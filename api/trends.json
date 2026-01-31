@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T11:59:55.447074+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-01-31T13:02:49.772267+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 11时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 13时02分]"
         },
         {
           "title": "明晟公司MSCI新兴市场基准股票指数跌1.7%，创2025年11月以来最差单日表现，1月份累计涨幅收窄至大约9%，仍然创2012年以来最佳单月表现。 新兴市场外汇指数跌约0.3%，使得1月份累计涨幅收窄至0.6%。 周五当天，南非兰特兑美元跌2.6%，创4月份以来最差表现。",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 13时02分]"
         },
         {
           "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览（美股盘中）",
