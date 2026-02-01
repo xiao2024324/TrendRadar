@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:31:52.392132+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-02-01T21:38:31.533474+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             11,
             18,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 21时38分]"
         },
         {
           "title": "锋龙股份：停牌核查完成，优必选承诺在本次收购完成后36个月内，不存在向上市公司注入其所持有资产的计划，股票复牌。",
