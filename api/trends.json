@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T09:15:44.221908+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-02-04T12:06:02.908464+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "诺和诺德业绩展望引爆股票抛售 公司预计销售利润双双大幅下降",
+          "url": "https://www.cls.cn/detail/2279680",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
         {
           "title": "诺和诺德(NVO.N)：董事会已决定启动一项高达150亿丹麦克朗的新股票回购计划。",
           "url": "https://flash.jin10.com/detail/20260204012652548800",
