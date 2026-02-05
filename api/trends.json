@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T07:20:29.531883+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-02-05T09:16:40.111705+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Arm控股CEO：日本软银集团无意对本公司减持股份。 软银孙正义曾直接回应过出售所持Arm股票的传闻。",
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "百度(09888.HK)预计于2026年首次派发股息。公司授权实施一项新的股票回购计划，最高回购金额为50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205080333887800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     }
