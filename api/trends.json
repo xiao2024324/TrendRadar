@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T16:22:40.610877+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-02-07T17:23:57.286362+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时36分]"
+        },
+        {
+          "title": "散户投资者连续第十年从英国股票基金撤出资金",
+          "url": "https://flash.jin10.com/detail/20260207162939548800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
