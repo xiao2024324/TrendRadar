@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T05:33:08.797195+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-02-10T06:28:53.430604+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260210050623603800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
