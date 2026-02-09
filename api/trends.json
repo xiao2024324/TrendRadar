@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-09T18:50:43.441189+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-02-09T19:40:51.821752+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "印度国家证券交易所：希望政府能重新考虑上调股票期货证券交易税的决定。",
+          "url": "https://flash.jin10.com/detail/20260209192146570800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "印度国家证券交易所：上调股票期货证券交易税将损害长期投资者利益。",
+          "url": "https://flash.jin10.com/detail/20260209191709677800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
         {
           "title": "据英国《金融时报》：英国金融行为监管局计划公布所有伦敦上市股票的交易数据。",
           "url": "https://flash.jin10.com/detail/20260209130224097800",
@@ -36,7 +58,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
