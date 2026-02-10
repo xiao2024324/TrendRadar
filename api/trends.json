@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-02-11T04:39:02.703124+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-02-11T05:36:33.912012+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050700949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
         {
           "title": "市场消息：美国家庭购物零售商QVC正在与债权人就可能申请破产进行磋商。QVC A类股票因市场波动暂停交易，暂停交易前下跌17.5%。",
           "url": "https://flash.jin10.com/detail/20260211032334962800",
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 05时36分]"
         },
         {
           "title": "Prosus在2月2-6日当周按均价46.5532欧元回购股票295.1716万股，合计1.374亿欧元（折合1.621亿美元）。 Naspers同期按958.5039南非兰特回购122.6469万股，合计11.756亿南特（折合0.730亿美元）。",
