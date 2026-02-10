@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T20:54:27.130919+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-02-10T22:19:13.282794+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "印度监管机构禁止两家交易所开展股票衍生品交易",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "英国石油公司CFO：暂停股票回购体现严格的财务纪律。",
+          "url": "https://flash.jin10.com/detail/20260210214104815800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "*ST立方：核查完毕，股票复牌。",
