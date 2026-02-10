@@ -1,168 +1,22 @@
 {
-  "generated_at": "2026-02-10T23:59:43.174243+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-02-11T01:03:36.576498+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "印度监管机构禁止两家交易所开展股票衍生品交易",
-          "url": "https://flash.jin10.com/detail/20260210152543860800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "协鑫集成：截至目前，公司主营业务及产品主要集中于地面光伏领域，公司尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单。因此，该概念目前未对公司经营业绩产生影响，公司特此提醒广大投资者，应充分认识股票市场的风险，切勿盲目追逐市场热点，审慎作出决策、理性开展投资，避免因概念炒作而引发投资风险。",
-          "url": "https://wallstreetcn.com/livenews/3053014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 20时54分]"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260210050623603800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "壳牌CEO：我们的股息盈亏平衡点是油价40美元/桶，股票回购的盈亏平衡点是50美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260210173401598800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时46分]"
-        },
-        {
-          "title": "市场消息：印度市场监管机构叫停两家新交易所的股票期权业务，要求交易所优先发展其股票交易业务。",
-          "url": "https://flash.jin10.com/detail/20260210151831476800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "斯特兰蒂斯在米兰上市的股票涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260210172410121800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
         {
           "title": "Prosus在2月2-6日当周按均价46.5532欧元回购股票295.1716万股，合计1.374亿欧元（折合1.621亿美元）。 Naspers同期按958.5039南非兰特回购122.6469万股，合计11.756亿南特（折合0.730亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3053131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "葛卫东10亿元认购江淮汽车定增股票",
-          "url": "https://wallstreetcn.com/livenews/3052996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260210013148662800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "英国石油公司CFO：暂停股票回购体现严格的财务纪律。",
-          "url": "https://flash.jin10.com/detail/20260210214104815800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "*ST立方：核查完毕，股票复牌。",
-          "url": "https://wallstreetcn.com/livenews/3052985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "泰国政治局势趋稳 外国投资者的泰国股票买入规模创四年来最高水平",
-          "url": "https://flash.jin10.com/detail/20260210111018430800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "巴克莱第四季度固定收益、外汇及大宗商品收入10.2亿英镑，市场预期9.86亿英镑。 第四季度股票业务收入7.03亿英镑，市场预期6.448亿英镑。 第四季度投行收入27.9亿英镑，市场预期27.4亿英镑。 第四季度利润总额70.8亿英镑，市场预期69.2亿英镑。 第四季度净利息收入37.3亿英镑，市场预期37.6亿英镑。 预计2026年利润总额大约310亿英镑，此前预计大约300亿英镑，市场预期305.4亿英镑。 预计2026至2028年资本回报将超过150亿英镑。",
-          "url": "https://wallstreetcn.com/livenews/3052804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "英国石油（BP）第四季度调整后息税前利润44.1亿美元，市场预估43.8亿美元。 第四季度石油生产及运营经调整息税前利润19.6亿美元，市场预估19.7亿美元。 第四季度天然气及低碳能源经调整息税前利润13.9亿美元，市场预估13.1亿美元。 第四季度调整后净利润15.4亿美元，市场预估15.3亿美元。 英国石油董事会已决定暂停股票回购计划。 英国石油将结构性成本削减目标上调至55亿至65亿美元，计划于2027年底前实现。",
-          "url": "https://wallstreetcn.com/livenews/3052802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "01时03分"
         }
       ]
     }
