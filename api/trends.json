@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:41:53.384772+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-02-10T17:54:05.556829+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "印度监管机构禁止两家交易所开展股票衍生品交易",
@@ -31,6 +31,17 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "壳牌CEO：我们的股息盈亏平衡点是油价40美元/桶，股票回购的盈亏平衡点是50美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260210173401598800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "市场消息：印度市场监管机构叫停两家新交易所的股票期权业务，要求交易所优先发展其股票交易业务。",
           "url": "https://flash.jin10.com/detail/20260210151831476800",
           "source": "金十数据",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "斯特兰蒂斯在米兰上市的股票涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260210172410121800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
