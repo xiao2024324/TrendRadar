@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T20:48:41.187108+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-11T22:37:30.458055+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "明晟公司（MSCI）：新增63只股票至ACWI指数，从中剔除61只。",
@@ -73,9 +73,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
+          "url": "https://www.zhihu.com/question/2004614069475370299",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "道达尔能源第四季度调整后净利润为38.4亿美元，同比下降13%，市场预期38.1亿美元。 第四季度调整后息税折旧及摊销前利润100.7亿美元，同比下降4.4%，市场预估98.7亿美元。 第四季度净利润29.1亿美元，同比下降27%，市场预估37.5亿美元。 第四季度调整后每股收益1.73美元，上年同期1.90美元，市场预估1.75美元。 第四季度产量255万桶油当量/日，市场预估250万。 预计第一季度产量超过260万桶油当量/日，市场预估260万。 道达尔能源计划在第一季度回购7.5亿美元股票。",
@@ -95,7 +106,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
