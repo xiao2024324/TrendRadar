@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-12T02:53:16.743333+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-02-12T03:52:40.297839+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 3,
       "titles": [
+        {
+          "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
+          "url": "https://www.zhihu.com/question/2004614069475370299",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 03时52分]"
+        },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013127382800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
-          "url": "https://www.zhihu.com/question/2004614069475370299",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 02时53分]"
         },
         {
           "title": "米其林计划2026-28年回购20亿欧元股票。",
