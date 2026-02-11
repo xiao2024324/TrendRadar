@@ -1,180 +1,22 @@
 {
-  "generated_at": "2026-02-11T23:53:58.815354+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-02-12T00:56:58.779572+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "明晟公司（MSCI）：新增63只股票至ACWI指数，从中剔除61只。",
-          "url": "https://wallstreetcn.com/livenews/3053274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "紫光股份：公司决定终止筹划发行H股股票并在香港联交所主板上市",
-          "url": "https://wallstreetcn.com/livenews/3053620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "市场消息：美国家庭购物零售商QVC正在与债权人就可能申请破产进行磋商。QVC A类股票因市场波动暂停交易，暂停交易前下跌17.5%。",
-          "url": "https://flash.jin10.com/detail/20260211032334962800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 05时36分]"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050700949800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
-        },
-        {
-          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
-          "url": "https://wallstreetcn.com/livenews/3053261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
         {
           "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
           "url": "https://www.zhihu.com/question/2004614069475370299",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时53分]"
-        },
-        {
-          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3053732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "道达尔能源第四季度调整后净利润为38.4亿美元，同比下降13%，市场预期38.1亿美元。 第四季度调整后息税折旧及摊销前利润100.7亿美元，同比下降4.4%，市场预估98.7亿美元。 第四季度净利润29.1亿美元，同比下降27%，市场预估37.5亿美元。 第四季度调整后每股收益1.73美元，上年同期1.90美元，市场预估1.75美元。 第四季度产量255万桶油当量/日，市场预估250万。 预计第一季度产量超过260万桶油当量/日，市场预估260万。 道达尔能源计划在第一季度回购7.5亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3053511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "Shopify(SHOP.N)已批准一项多达20亿美元的股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260211200916441800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "印尼社会保障基金：近期雅加达股指下跌是买入机会。 已买入大市值公司股票，包括银行。 在计划将自由流通股比例提升至15%后，已准备好继续买入股票。",
-          "url": "https://wallstreetcn.com/livenews/3053655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "MSCI降级预警致印尼股市千亿市值蒸发 国有社保基金称拟增持股票",
-          "url": "https://flash.jin10.com/detail/20260211175549841800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "印尼社会保障基金负责人：在计划将公众持股量提升至15%后，已准备好进一步增持股票。",
-          "url": "https://flash.jin10.com/detail/20260211174721660800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "MSCI新兴市场股票指数创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3053403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "印尼社会保障基金负责人：已买入包括银行在内的大型市值公司股票。",
-          "url": "https://flash.jin10.com/detail/20260211174629557800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "Prosus在2月2-6日当周按均价46.5532欧元回购股票295.1716万股，合计1.374亿欧元（折合1.621亿美元）。 Naspers同期按958.5039南非兰特回购122.6469万股，合计11.756亿南特（折合0.730亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3053131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "00时56分"
         }
       ]
     }
