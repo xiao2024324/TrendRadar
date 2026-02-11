@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T03:52:40.297839+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-02-12T04:31:39.499626+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             8,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
