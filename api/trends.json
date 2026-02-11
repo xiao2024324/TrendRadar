@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T01:54:13.224001+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-12T02:53:16.743333+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 02时53分]"
         },
         {
           "title": "米其林计划2026-28年回购20亿欧元股票。",
@@ -37,7 +37,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
