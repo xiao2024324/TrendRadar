@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T20:44:23.625718+08:00",
-  "total_titles_processed": 1769,
+  "generated_at": "2026-02-12T22:06:42.674784+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时25分]"
+        },
+        {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://www.cls.cn/detail/2288312",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 22时06分]"
         },
         {
           "title": "A股现天价离婚案 前妻分走13亿股票",
@@ -49,20 +63,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时59分 ~ 16时37分]"
-        },
-        {
-          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
-          "url": "https://www.cls.cn/detail/2288312",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时44分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "埃克森美孚更新四年融资计划，拟增发34亿美元股票。 预计未来四年支出总额为413亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "软银集团：将公司股票的融资贷款额度增加4000亿日元。",
