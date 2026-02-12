@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:17:27.087794+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-12T14:00:42.786278+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
@@ -22,6 +22,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时25分]"
+        },
+        {
+          "title": "A股又现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.toutiao.com/trending/7605792165968481798/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "A股现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
