@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:03:19.878143+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-02-12T16:37:10.101904+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道称绝味鸭脖上市来首次年度亏损，股票被 ST，一年半关店超 4000 家、日均关 7 家，为何消费者不买账了？",
@@ -29,11 +29,25 @@
           "source": "今日头条",
           "ranks": [
             1,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时37分]"
+        },
+        {
+          "title": "A股现天价离婚案 前妻分走13亿股票",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时37分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -47,16 +61,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "A股现天价离婚案 前妻分走13亿股票",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88+%E5%89%8D%E5%A6%BB%E5%88%86%E8%B5%B013%E4%BA%BF%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://www.cls.cn/detail/2288312",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            24
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时03分]"
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "米其林计划2026-28年回购20亿欧元股票。",
@@ -76,7 +89,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         }
