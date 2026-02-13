@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:37:53.961205+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-02-14T04:28:45.846901+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
