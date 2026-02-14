@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-02-14T23:18:39.733716+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-02-15T00:20:36.036944+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
-          "url": "https://wallstreetcn.com/livenews/3055330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时28分]"
-        },
-        {
-          "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
-          "url": "https://wallstreetcn.com/livenews/3055325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260214013115651800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
