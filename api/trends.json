@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T22:49:29.743357+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-02-16T23:34:42.583441+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "微博",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时49分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时34分]"
         },
         {
           "title": "达索系统股票暂停交易，最新下跌7.6%。",
