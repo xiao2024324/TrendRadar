@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T04:29:31.419187+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-02-18T05:28:31.548902+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时29分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 05时28分]"
         },
         {
           "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
