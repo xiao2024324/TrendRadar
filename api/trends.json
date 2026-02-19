@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T09:21:51.796244+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-02-19T12:13:22.884554+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -20,13 +20,24 @@
           "time_info": "[05时29分 ~ 06时26分]"
         },
         {
+          "title": "韩国短时暂停KOSDAQ市场程序化股票交易。",
+          "url": "https://wallstreetcn.com/livenews/3056557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "日本2月13日当周净买进国外股票 -258亿日元。",
           "url": "https://wallstreetcn.com/livenews/3056532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
