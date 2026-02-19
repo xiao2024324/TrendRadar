@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T20:43:44.463750+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-02-19T22:04:55.887185+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3056638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时04分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -72,7 +73,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
