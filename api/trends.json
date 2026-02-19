@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T13:54:27.662822+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-02-19T14:52:09.893159+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时52分]"
         },
         {
           "title": "日本2月13日当周净买进国外股票 -258亿日元。",
