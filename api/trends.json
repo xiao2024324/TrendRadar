@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:52:07.559641+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-26T04:28:45.457870+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
