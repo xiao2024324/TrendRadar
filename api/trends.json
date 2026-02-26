@@ -1,213 +1,22 @@
 {
-  "generated_at": "2026-02-26T23:45:40.029618+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-02-27T00:48:38.326123+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 18,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "索尼扩大股票回购规模至最高2500亿日元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
-          "url": "https://flash.jin10.com/detail/20260226152906756800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "德国安联计划回购至多25亿欧元股票。",
-          "url": "https://wallstreetcn.com/livenews/3059011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时28分]"
-        },
-        {
-          "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
-          "url": "https://wallstreetcn.com/livenews/3059073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时22分]"
-        },
-        {
-          "title": "*ST阳光：申请撤销公司股票退市风险警示。",
-          "url": "https://wallstreetcn.com/livenews/3059514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时34分]"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260226013223686800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "印度市场监管机构允许该国规模达3840亿美元的主动管理型股票基金将更多资金投资于黄金和白银。",
-          "url": "https://flash.jin10.com/detail/20260226152215261800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "百度：获准开展新一轮股票回购计划，公司可在该计划下回购不超过50亿美元的本公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3059464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
         {
           "title": "其实捐赠价值4.5亿元股票，上海交大再迎大额捐款",
           "url": "https://www.cls.cn/detail/2296214",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "印度放宽规模3840亿美元股票基金新规，允许增持黄金、白银。（印度经济时报）",
-          "url": "https://wallstreetcn.com/livenews/3059394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "Nutanix Inc.涨10%，创4月份以来最大盘中涨幅，AMD将从这家新合作伙伴购买1.5亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3059643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "伦敦证券交易所集团计划未来12个月内回购价值30亿英镑的股票。",
-          "url": "https://wallstreetcn.com/livenews/3059367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：国民年金公团灵活的外汇对冲帮助了韩元走强。 MSCI纳入有望提振外国股票资金流入。",
-          "url": "https://wallstreetcn.com/livenews/3059228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "在米兰上市的Stellantis股票在停牌后恢复交易，最新上涨6.7%。",
-          "url": "https://flash.jin10.com/detail/20260226214313945800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "百度(09888.HK)：获准开展新一轮股票回购计划，公司可在该计划下回购不超过50亿美元的本公司股票。",
-          "url": "https://flash.jin10.com/detail/20260226170301997800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：美国关税裁决目前对出口的影响有限。 需要关注外汇、市场波动、首尔房价。 海外股票投资令外汇不确定性维持高企。 没有委员会成员认为未来三个月内有必要加息。 国债收益率与政策利率之间的利差过大。",
-          "url": "https://wallstreetcn.com/livenews/3059217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "汇丰策略师Kettner削减美国股票配置，青睐全球其他地区",
-          "url": "https://wallstreetcn.com/livenews/3059632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "在米兰上市的Stellantis股票在上涨4.97%后自动暂停交易。",
-          "url": "https://flash.jin10.com/detail/20260226213931487800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "00时48分"
         }
       ]
     }
