@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T20:44:24.575291+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-02-26T22:05:43.047920+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "索尼扩大股票回购规模至最高2500亿日元。（彭博）",
@@ -100,6 +100,17 @@
           "time_info": "17时41分"
         },
         {
+          "title": "其实捐赠价值4.5亿元股票，上海交大再迎大额捐款",
+          "url": "https://www.cls.cn/detail/2296214",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "印度放宽规模3840亿美元股票基金新规，允许增持黄金、白银。（印度经济时报）",
           "url": "https://wallstreetcn.com/livenews/3059394",
           "source": "华尔街见闻-快讯",
@@ -133,6 +144,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "在米兰上市的Stellantis股票在停牌后恢复交易，最新上涨6.7%。",
+          "url": "https://flash.jin10.com/detail/20260226214313945800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "百度(09888.HK)：获准开展新一轮股票回购计划，公司可在该计划下回购不超过50亿美元的本公司股票。",
           "url": "https://flash.jin10.com/detail/20260226170301997800",
           "source": "金十数据",
@@ -153,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "在米兰上市的Stellantis股票在上涨4.97%后自动暂停交易。",
+          "url": "https://flash.jin10.com/detail/20260226213931487800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     }
