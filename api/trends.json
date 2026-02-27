@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T05:22:43.781475+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-02-28T06:16:22.364964+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时16分]"
         },
         {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
@@ -25,22 +26,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时16分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，股票基金投机者将CME标普500指数期货净空头头寸增加14318手，至465965手。",
           "url": "https://flash.jin10.com/detail/20260228043843787800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时16分]"
         }
       ]
     }
