@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:55:04.518468+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2026-02-27T22:35:00.980128+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "其实捐赠价值4.5亿元股票，上海交大再迎大额捐款",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "瑞士再保险发布创纪录的48亿美元利润，计划回购15亿美元股票，股价涨5%",
+          "url": "https://wallstreetcn.com/livenews/3060351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "索尼股价大涨7%，此前公司宣布扩大股票回购计划。",
