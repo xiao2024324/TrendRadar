@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:35:00.980128+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-02-27T23:32:38.039797+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "其实捐赠价值4.5亿元股票，上海交大再迎大额捐款",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260227231502204800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
@@ -125,7 +136,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
