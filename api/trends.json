@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-02-28T23:15:38.716935+08:00",
-  "total_titles_processed": 2141,
+  "generated_at": "2026-03-01T00:18:19.649047+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国SEC发布外国公司监管新规 要求高管限时披露股票交易",
-          "url": "https://wallstreetcn.com/livenews/3060491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时16分]"
-        },
-        {
-          "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3060490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时16分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至2025年12月31日，持有的股票投资总公允价值中，约65%集中在五家公司。 五大持股公司分别为美国运通、苹果、美国银行、可口可乐和雪佛龙。",
-          "url": "https://wallstreetcn.com/livenews/3060884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时15分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，股票基金投机者将CME标普500指数期货净空头头寸增加14318手，至465965手。",
-          "url": "https://flash.jin10.com/detail/20260228043843787800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时16分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦第四季度持有的现金储备为3733.1亿美元。 对卡夫亨氏和西方石油计提45亿美元减值。 截至2025年12月31日，持有的股票投资总公允价值中，约65%集中在五家公司。",
-          "url": "https://wallstreetcn.com/livenews/3060871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
