@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-01T22:18:33.469390+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-03-01T23:16:10.048356+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "外资突然大抛售韩国股票",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E8%B5%84%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8A%9B%E5%94%AE%E9%9F%A9%E5%9B%BD%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
