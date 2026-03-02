@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T12:07:03.110423+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-03-02T13:46:40.169689+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "外资突然大抛售韩国股票",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 07时16分]"
+        },
+        {
+          "title": "印尼证券交易所：我们已扩大可由流动性提供商报价的股票名单，并推出了灵活的激励机制。",
+          "url": "https://flash.jin10.com/detail/20260302132637029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     }
