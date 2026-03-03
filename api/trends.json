@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-04T01:37:54.654659+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-04T02:37:54.300807+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260304020824934800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
         {
           "title": "Prosus于2月23-27日按均价44.0525欧元回购股票205.8996万股，合计0.907亿欧元（折合将近1.070亿美元）。 Naspers同期按均价902.9577南非兰特回购79.4130万股，合计超7.170亿兰特（折合0.450亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3062860",
