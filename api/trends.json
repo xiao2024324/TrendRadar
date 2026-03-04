@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T09:17:43.366183+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-04T12:02:23.540030+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "海外资金四个月来最大规模买入印尼股票",
+          "url": "https://flash.jin10.com/detail/20260304113509270800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股收盘）",
@@ -47,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
