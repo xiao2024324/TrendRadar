@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-03-05T23:43:37.582749+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-03-06T01:56:23.658443+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260305223632756800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)上涨1.5%，此前该公司宣布恢复股票回购。",
-          "url": "https://flash.jin10.com/detail/20260305223425192800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "万马股份公告，筹划发行H股股票并在香港联交所上市。",
-          "url": "https://wallstreetcn.com/livenews/3064162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "金十图示：2026年03月04日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260305050533620800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
