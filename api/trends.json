@@ -1,57 +1,7 @@
 {
-  "generated_at": "2026-03-08T23:16:51.136536+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-03-09T00:19:47.398344+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中南文化：拟购买江阴苏龙热电57.3%股权 股票明起复牌",
-          "url": "https://wallstreetcn.com/livenews/3065844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            8,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
-          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3065839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时31分]"
-        },
-        {
-          "title": "中南文化：拟购买江阴苏龙热电57.3%股权 股票明起复牌",
-          "url": "https://flash.jin10.com/detail/20260308155011854800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
