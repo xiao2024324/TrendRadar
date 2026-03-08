@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T17:22:09.223592+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-03-08T18:18:31.271234+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "中南文化：拟购买江阴苏龙热电57.3%股权 股票明起复牌",
@@ -37,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         }
       ]
     }
