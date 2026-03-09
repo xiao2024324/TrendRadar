@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-03-09T23:51:34.680983+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-03-10T00:50:40.362039+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛：对冲基金在市场暴跌中增加对美国股票的做空押注",
-          "url": "https://wallstreetcn.com/livenews/3065918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260309214134620800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
