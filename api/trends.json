@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:40:56.608676+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-10T21:57:32.624098+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "沙特阿美CFO：我们最终会将股票回购计划中的股票卖回给员工。",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时39分]"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "乐惠国际：拟向特定对象发行股票募资不超3.5亿元",
+          "url": "https://flash.jin10.com/detail/20260310213945285800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
@@ -92,7 +114,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
