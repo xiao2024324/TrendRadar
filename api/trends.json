@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T04:26:34.828891+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-03-13T05:25:50.133618+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260313040653218800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时25分]"
         },
         {
           "title": "据知情人士透露，格罗方德半导体（格芯）股票销售获得四倍超额认购。（彭博）",
