@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-03-15T23:21:57.378013+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-03-16T00:23:21.636162+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "3·15晚会丨起底“荐股分成”骗局！荐股机构：股票自己编，赔钱就“凉拌”",
-          "url": "https://wallstreetcn.com/livenews/3070333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "3·15晚会丨推荐股票全靠自己编？315晚会曝光荐股分成骗局，荐股分成机构成割肉骗子窝",
-          "url": "https://wallstreetcn.com/livenews/3070333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（3月15日），沙特证交所全股指数收跌0.06%，报10886.63点，利雅得盘初显著下跌，随后逐步收复失地。 沙特阿美（ARAMCO.AB）收涨0.24%，报27.10沙特里亚尔，整体实现宽底U形反转。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.40%，报11.40沙特里亚尔，北京时间19:25之前持平，随后走低。 卡塔尔证交所指数收跌0.24%，报10461.00点，最近三个交易日累计下跌1.96%。 科威特证交所超级市场价格回报指数收跌0.01%，报9184.35点。",
-          "url": "https://wallstreetcn.com/livenews/3070271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
