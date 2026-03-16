@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-03-16T23:58:41.904751+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-03-17T01:00:23.380441+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沃森生物：筹划向特定对象发行A股股票 控制人变更",
-          "url": "https://wallstreetcn.com/livenews/3070768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "高凌信息：正在筹划以发行股份及支付现金的方式收购凯睿星通信息科技（南京）股份有限公司的控制权，同时拟募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3070814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "*ST万方：若公司股票连续总市值低于5亿元，将被深交所终止上市交易",
-          "url": "https://flash.jin10.com/detail/20260316171525173800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
