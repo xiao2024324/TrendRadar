@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:47:03.550586+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-03-17T18:42:30.446287+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国芝加哥期权交易所（CBOE）向证券交易委员会（SEC）提出申请，计划于2026年12月启动美国股票24*5的交易模式。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "4连板法尔胜：如未来公司股票价格进一步上涨 公司可能向深交所申请停牌核查",
+          "url": "https://flash.jin10.com/detail/20260317180555024800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     }
