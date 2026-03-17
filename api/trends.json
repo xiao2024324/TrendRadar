@@ -1,100 +1,22 @@
 {
-  "generated_at": "2026-03-17T23:57:46.709707+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2026-03-18T01:02:07.858178+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "温氏股份：公司于2026年3月16日首次通过股票回购专用账户以集中竞价交易方式实施回购，回购公司股份数量为549.65万股，占公司总股本的0.0826%。",
-          "url": "https://wallstreetcn.com/livenews/3071642",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260318003210314800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国芝加哥期权交易所（CBOE）向证券交易委员会（SEC）提出申请，计划于2026年12月启动美国股票24*5的交易模式。",
-          "url": "https://wallstreetcn.com/livenews/3071115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时31分]"
-        },
-        {
-          "title": "*ST景峰：申请撤销公司股票因重整而被实施退市风险警示，继续被实施其他风险警示。",
-          "url": "https://wallstreetcn.com/livenews/3071682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
-          "url": "https://wallstreetcn.com/livenews/3071778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260317040623869800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "Prosus于3月9-13日按均价45.5888欧元回购股票257.2002万股，合计超1.172亿欧元（折合1.356亿美元）。 Naspers同期按均价929.4052南非兰特回购91.9万股，合计超8.541亿兰特（折合0.515亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3071775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "4连板法尔胜：如未来公司股票价格进一步上涨 公司可能向深交所申请停牌核查",
-          "url": "https://flash.jin10.com/detail/20260317180555024800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美股三大股指集体高开，道指涨0.66%，标普500指数涨0.42%，纳指涨0.33%。明星科技股普涨，美光科技涨超2%，英伟达涨超1%；高通涨超3%，公司批准200亿美元股票回购计划并上调股息。美国航空股价上涨5.2%，有望创一个月来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3071713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "01时02分"
         }
       ]
     }
