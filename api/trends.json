@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:04:33.434031+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2026-03-19T23:45:23.166374+08:00",
+  "total_titles_processed": 2189,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 23时45分]"
         },
         {
           "title": "*ST熊猫：股价涨幅异常，股票停牌核查。",
@@ -60,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
