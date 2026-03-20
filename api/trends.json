@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-21T04:23:35.959189+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-21T05:24:07.811937+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260321040633903800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
