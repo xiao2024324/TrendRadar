@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T07:23:02.021101+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-03-20T09:19:18.344719+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，联合利华正商谈将其食品业务与味可美（McCormick）合并。全股票交易有望在几周内达成。",
@@ -14,7 +14,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "国盛证券：全球流动性很可能逐步收紧 建议警惕股票市场深度调整的可能性",
+          "url": "https://flash.jin10.com/detail/20260320081548692800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     }
