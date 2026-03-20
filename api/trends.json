@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-20T15:41:28.801174+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-20T16:32:45.964655+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "南京化纤：2025年业绩预亏 股票或被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260320162228292800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "据华尔街日报：消息人士称，联合利华正商谈将其食品业务与味可美（McCormick）合并。全股票交易有望在几周内达成。",
           "url": "https://flash.jin10.com/detail/20260320064619154800",
