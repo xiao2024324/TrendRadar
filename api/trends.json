@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-22T23:19:10.670485+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-03-23T00:20:37.608379+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "明德生物：股票交易可能被实施退市风险警示",
-          "url": "https://flash.jin10.com/detail/20260322154616553800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
