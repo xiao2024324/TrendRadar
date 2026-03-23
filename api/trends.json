@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-03-23T23:54:19.816365+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2026-03-24T00:49:40.979908+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "万得凯：正在筹划发行股份及支付现金购买江苏曾瑞智控科技有限公司100%股权事项，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3075102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "万得凯：正在筹划发行股份及支付现金购买资产，股票停牌",
-          "url": "https://flash.jin10.com/detail/20260323181731089800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
