@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-25T03:50:02.827697+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-03-25T04:33:54.590090+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260325040543913800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
         {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260325021257768800",
