@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T20:48:03.609346+08:00",
-  "total_titles_processed": 1904,
+  "generated_at": "2026-03-25T22:14:52.751776+08:00",
+  "total_titles_processed": 2035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "ST联合：申请撤销公司股票其他风险警示",
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "*ST椰岛：若经审计后的2025年度净利润为负值且营业收入低于3亿元，公司股票可能被终止上市",
+          "url": "https://flash.jin10.com/detail/20260325215124888800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     }
