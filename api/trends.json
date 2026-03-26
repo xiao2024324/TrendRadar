@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-27T03:52:20.034389+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-03-27T04:29:30.742914+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040606823800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
