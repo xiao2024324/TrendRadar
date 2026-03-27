@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-27T15:55:50.301721+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-03-27T16:42:18.606434+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "*ST万方：股票连续十日市值低于5亿 存终止上市风险",
+          "url": "https://flash.jin10.com/detail/20260327162741072800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
         {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040606823800",
