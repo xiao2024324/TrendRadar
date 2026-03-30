@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T05:35:44.797812+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-31T06:28:16.702765+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260331045023142800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时28分]"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
