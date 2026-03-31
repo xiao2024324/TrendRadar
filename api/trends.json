@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T17:57:34.429064+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-03-31T18:49:39.312985+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时28分]"
+        },
+        {
+          "title": "嘉华股份：实控人正在筹划重大事项可能导致公司控制权发生变更，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260331183155076800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "正通汽车：股票继续暂停买卖",
+          "url": "https://flash.jin10.com/detail/20260331181854139800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     }
