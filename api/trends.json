@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T05:31:11.411631+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-04-03T06:25:00.605130+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时25分]"
         },
         {
           "title": "据知情人士透露，城堡战术交易基金3月份上涨1.8%，年初至今累计上涨5.3%；而城堡股票基金3月份上涨0.7%，年初至今累计上涨2.9%。",
