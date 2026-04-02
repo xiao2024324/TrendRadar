@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T03:44:18.574082+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-03T04:39:52.712871+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         },
         {
           "title": "据知情人士透露，城堡战术交易基金3月份上涨1.8%，年初至今累计上涨5.3%；而城堡股票基金3月份上涨0.7%，年初至今累计上涨2.9%。",
