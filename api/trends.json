@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T05:26:52.139501+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-04T06:25:35.666834+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260404033558642800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时25分]"
         },
         {
           "title": "洲际油气：股东海口东铎涉嫌在限制转让期内转让股票 收到行政处罚事先告知书",
