@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T15:58:10.190783+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-04-03T16:48:31.834185+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "乐惠国际：向特定对象发行股票申请获上交所受理",
+          "url": "https://flash.jin10.com/detail/20260403162631091800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "*ST精伦：股票自2026年4月7日起停牌",
+          "url": "https://flash.jin10.com/detail/20260403160518045800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
