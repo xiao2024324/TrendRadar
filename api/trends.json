@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:36:26.511895+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-04-03T19:33:00.998085+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -43,6 +43,28 @@
           "time_info": "[04时39分 ~ 06时25分]"
         },
         {
+          "title": "珠海中富：横琴兴赢拟认购定增股份持股18.03%，股票自2026年4月7日开市起复牌",
+          "url": "https://flash.jin10.com/detail/20260403190325509800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3082163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "据知情人士透露，城堡战术交易基金3月份上涨1.8%，年初至今累计上涨5.3%；而城堡股票基金3月份上涨0.7%，年初至今累计上涨2.9%。",
           "url": "https://flash.jin10.com/detail/20260403001040056800",
           "source": "金十数据",
@@ -74,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控",
+          "url": "https://flash.jin10.com/detail/20260403184539738800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     }
