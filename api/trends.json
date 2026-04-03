@@ -1,124 +1,33 @@
 {
-  "generated_at": "2026-04-03T23:34:46.487414+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-04-04T00:31:52.943690+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260403003135168800",
+          "title": "洲际油气：股东海口东铎涉嫌在限制转让期内转让股票 收到行政处罚事先告知书",
+          "url": "https://flash.jin10.com/detail/20260403233030363800",
           "source": "金十数据",
           "ranks": [
-            1
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时31分"
         },
         {
-          "title": "乐惠国际：向特定对象发行股票申请获上交所受理",
-          "url": "https://flash.jin10.com/detail/20260403162631091800",
+          "title": "恒信东方：因2022年年报存在虚假记载被实施其他风险警示 股票简称变更为“ST恒信”",
+          "url": "https://flash.jin10.com/detail/20260403232853643800",
           "source": "金十数据",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时25分]"
-        },
-        {
-          "title": "上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控。",
-          "url": "https://wallstreetcn.com/livenews/3082163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时43分]"
-        },
-        {
-          "title": "珠海中富：横琴兴赢拟认购定增股份持股18.03%，股票自2026年4月7日开市起复牌",
-          "url": "https://flash.jin10.com/detail/20260403190325509800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "*ST岩石：公司股票可能因市值低于5亿元被终止上市",
-          "url": "https://flash.jin10.com/detail/20260403200542550800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "据知情人士透露，城堡战术交易基金3月份上涨1.8%，年初至今累计上涨5.3%；而城堡股票基金3月份上涨0.7%，年初至今累计上涨2.9%。",
-          "url": "https://flash.jin10.com/detail/20260403001040056800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "SEC文件显示，特斯拉(TSLA.O)副总裁朱晓彤买入20,000股特斯拉股票。",
-          "url": "https://flash.jin10.com/detail/20260403090220073800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "*ST精伦：股票自2026年4月7日起停牌",
-          "url": "https://flash.jin10.com/detail/20260403160518045800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控",
-          "url": "https://flash.jin10.com/detail/20260403184539738800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "00时31分"
         }
       ]
     }
