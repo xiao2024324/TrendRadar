@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-04-06T23:39:41.802532+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-04-07T00:40:04.108068+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马来西亚发起鼓励本地投资者购买股票的活动。",
-          "url": "https://flash.jin10.com/detail/20260406050607153800",
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003239064800",
           "source": "金十数据",
           "ranks": [
-            13,
-            30
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时26分]"
-        },
-        {
-          "title": "CrowdStrike(CRWD.O)宣布将股票回购计划增加5亿美元至15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260406203045324800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "希捷科技(STX.O)股价盘前上涨4.6%，此前摩根士丹利将其列入首选股票名单。",
-          "url": "https://flash.jin10.com/detail/20260406205256441800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "00时40分"
         }
       ]
     }
