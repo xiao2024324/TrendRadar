@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T00:40:04.108068+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-07T01:39:14.780905+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -14,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "高盛交易员认为：“快钱”基金即将回归买入股票模式",
+          "url": "https://wallstreetcn.com/livenews/3082907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     }
