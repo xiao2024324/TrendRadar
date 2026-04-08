@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T23:14:13.167907+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-04-09T00:53:33.844952+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260408040542109800",
+          "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260409003209598800",
           "source": "金十数据",
           "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "00时53分"
         }
       ]
     }
