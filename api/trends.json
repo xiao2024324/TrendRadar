@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:41:33.290787+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-04-10T20:51:15.780817+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时03分 ~ 20时51分]"
         },
         {
           "title": "金十图示：2026年04月09日（周四）美股热门股票行情一览（美股收盘）",
