@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T22:13:35.244574+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-04-10T23:43:25.210248+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时03分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时03分 ~ 23时43分]"
         },
         {
           "title": "雪浪环境：公司股票自4月13日开市起停牌1天，于4月14日开市起复牌并实施其他风险警示，股票简称由“雪浪环境”变更为“ST雪浪”。",
@@ -28,7 +28,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
