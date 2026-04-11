@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T07:28:54.442136+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-11T09:25:40.707356+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时25分]"
         },
         {
           "title": "多伦多股票指数创3月4日以来最高收盘点位。",
           "url": "https://flash.jin10.com/detail/20260411041118914800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时25分]"
         },
         {
           "title": "报道：国泰君安国际前ECM主管负责其股票销售业务",
