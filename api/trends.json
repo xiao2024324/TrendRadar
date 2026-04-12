@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-04-12T23:30:31.124516+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-04-13T00:29:35.700381+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "长药退：公司股票终止上市，将在2026年4月13日被摘牌。",
-          "url": "https://wallstreetcn.com/livenews/3086356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时28分]"
-        },
         {
           "title": "小米股票为何跌跌不休",
           "url": "https://www.toutiao.com/trending/7627799526945852991/",
           "source": "今日头条",
           "ranks": [
-            28,
-            8,
-            20
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 21时55分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
