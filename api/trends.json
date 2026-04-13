@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T15:10:51.516060+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-04-13T17:29:35.515797+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米股票为何跌跌不休",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 07时27分]"
+        },
+        {
+          "title": "美银Hartnett：2020年代前五年的大赢家是股票，未来五年将是大宗商品",
+          "url": "https://wallstreetcn.com/articles/3769758",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "浑水创始人布洛克表示，人工智能可能会引发比2008年全球金融危机规模更大的股市动荡，为那些多年来做空美国股票但收益惨淡的投资者重新创造机会。今年软件行业以及其他被视为“AI时代失意者”的板块出现的剧烈抛售，是“即将到来的AI颠覆的前兆”，这将重新激发卖空行为。",
