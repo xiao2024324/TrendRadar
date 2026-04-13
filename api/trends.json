@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T03:20:45.859946+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-04-14T04:45:00.925456+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时45分]"
+        },
+        {
+          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260414040602403800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     }
