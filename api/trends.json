@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:09:20.904564+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-04-14T20:43:40.231891+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
@@ -44,6 +44,17 @@
           "time_info": "[04时45分 ~ 05时40分]"
         },
         {
+          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "Rare Earths Americas申请美国IPO。 寻求按代码“REA”在纽交所交易其股票。",
           "url": "https://wallstreetcn.com/livenews/3087173",
           "source": "华尔街见闻-快讯",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "花旗集团(C.N)第一财季股票销售及交易收入20.8亿美元，市场预期17.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414200413978800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     }
