@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:35:19.822141+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-04-16T07:35:57.881128+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 07时35分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时35分]"
         },
         {
           "title": "欧洲央行管委内格尔：赞赏股票市场的乐观情绪。",
