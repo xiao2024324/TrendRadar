@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T09:31:32.353691+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-04-15T12:40:49.968635+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "汇丰私人银行下调新兴亚洲股票评级，并削减对印度的敞口，同时由于伊朗战争风险和油价冲击，增加对黄金、现金和对冲基金的配置。",
+          "url": "https://wallstreetcn.com/livenews/3088173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     }
