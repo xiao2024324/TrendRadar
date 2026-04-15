@@ -1,111 +1,33 @@
 {
-  "generated_at": "2026-04-15T23:22:43.986892+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2026-04-16T00:09:18.421292+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
           "url": "https://www.cls.cn/detail/2345128",
           "source": "财联社热门",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 23时22分]"
-        },
-        {
-          "title": "摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。 第一季度净营收205.8亿美元，预估197.1亿美元。 第一财季股票交易收入51.5亿美元，预期47.8亿美元。 第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿美元，预估28.9亿美元。 摩根士丹利美股盘前涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3088477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "00时09分"
         },
         {
-          "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260415040625031800",
+          "title": "欧洲央行管委内格尔：赞赏股票市场的乐观情绪。",
+          "url": "https://flash.jin10.com/detail/20260415233923433800",
           "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3088311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260415003157517800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "汇丰私人银行下调新兴亚洲股票评级，并削减对印度的敞口，同时由于伊朗战争风险和油价冲击，增加对黄金、现金和对冲基金的配置。",
-          "url": "https://wallstreetcn.com/livenews/3088173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "摩根士丹利(MS.N)第一财季股票交易收入51.5亿美元，市场预期47.8亿美元。",
-          "url": "https://flash.jin10.com/detail/20260415192708272800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "美国银行第一季度净利息收入为157.5亿美元，预估为153.7亿美元。 第一季度不含DVA的FICC交易收入为35亿美元，预期37.8亿美元。 第一季度不含DVA的股票交易收入为28.3亿美元，预期25.1亿美元。 第一季度每股收益1.11美元。 美国银行美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3088445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "Sigenergy Technology Co. Ltd.（思格新能源）香港IPO股票总筹资44亿港元，面向散户部分获得1102.05倍认购。",
-          "url": "https://wallstreetcn.com/livenews/3088611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
+          "time_info": "00时09分"
         }
       ]
     }
