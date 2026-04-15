@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T04:40:31.391385+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-04-16T05:44:14.622285+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -15,19 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 05时44分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260416040543220800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时44分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙卖出4000万美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3088786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "05时44分"
         },
         {
           "title": "欧洲央行管委内格尔：赞赏股票市场的乐观情绪。",
