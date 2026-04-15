@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T02:01:34.742619+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-16T03:23:09.825464+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时23分]"
         },
         {
           "title": "欧洲央行管委内格尔：赞赏股票市场的乐观情绪。",
@@ -36,7 +36,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
