@@ -1,104 +1,22 @@
 {
-  "generated_at": "2026-04-16T23:20:03.422403+08:00",
-  "total_titles_processed": 1852,
+  "generated_at": "2026-04-17T01:05:40.961473+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
-          "url": "https://www.cls.cn/detail/2345128",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时35分]"
-        },
-        {
-          "title": "利源股份：公司股票交易可能被实施退市风险警示",
-          "url": "https://flash.jin10.com/detail/20260416162201134800",
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003213963800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040543220800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时44分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙卖出4000万美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3088786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 07时35分]"
-        },
-        {
-          "title": "欧洲央行管委内格尔：赞赏股票市场的乐观情绪。",
-          "url": "https://flash.jin10.com/detail/20260415233923433800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "苹果CEO库克再度增持耐克股票 去年买入部分已浮亏25%",
-          "url": "https://www.cls.cn/detail/2345469",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "美国银行股票交易收入创纪录，受市场波动提振",
-          "url": "https://wallstreetcn.com/livenews/3088679",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "*ST观典：股票短期内涨幅较大，明起停牌核查。",
-          "url": "https://wallstreetcn.com/livenews/3089345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "01时05分"
         }
       ]
     }
