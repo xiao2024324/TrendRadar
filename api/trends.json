@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T07:35:57.881128+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-16T09:53:25.974995+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "苹果CEO库克再度增持耐克股票 去年买入部分已浮亏25%",
+          "url": "https://www.cls.cn/detail/2345469",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国银行股票交易收入创纪录，受市场波动提振",
