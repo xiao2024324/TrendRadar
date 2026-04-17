@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T00:45:37.695257+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T01:42:32.092200+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260418003235958800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
           "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
           "url": "https://www.zhihu.com/question/2028393471682029120",
           "source": "知乎",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时42分]"
+        },
+        {
+          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260418003235958800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
