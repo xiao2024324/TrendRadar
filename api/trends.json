@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-04-18T23:31:52.846074+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-04-19T00:31:46.809908+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "4 月 17 日 A 股「股王」易位，源杰科技股价超越贵州茅台，109 只股票创历史新高，如何看待当下行情？",
-          "url": "https://www.zhihu.com/question/2028393471682029120",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时32分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月14日当周，股票基金管理者将CME标普500指数期货净多头头寸增加71,259手，至1,011,108手。股票投机者将CME标普500指数期货净空头头寸增加186,638手，至414,897手。",
-          "url": "https://flash.jin10.com/detail/20260418033502679800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260418040730604800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时37分 ~ 09时28分]"
-        },
-        {
-          "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260418003235958800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
