@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-19T23:32:07.011678+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-04-20T00:31:49.275558+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港交所拟缩短股票结算周期",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%AF%E4%BA%A4%E6%89%80%E6%8B%9F%E7%BC%A9%E7%9F%AD%E8%82%A1%E7%A5%A8%E7%BB%93%E7%AE%97%E5%91%A8%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
