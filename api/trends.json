@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T19:14:55.615857+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-04-20T21:10:26.044440+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "摩根士丹利：伊朗局势风险再度加剧 建议减持亚洲和新兴市场股票敞口",
@@ -30,15 +30,37 @@
           "time_info": "09时54分"
         },
         {
+          "title": "明德生物：公司股票自2026年4月22日起被实施“退市风险警示”，股票简称由“明德生物”变更为“*ST明德”。",
+          "url": "https://wallstreetcn.com/livenews/3091142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "安诺其：拟购买烽云信息100%股权 股票复牌",
           "url": "https://flash.jin10.com/detail/20260420190608164800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "一家上市券商一季度仅赚百万元，净利暴跌98%，背后竟因一只股票",
+          "url": "https://www.cls.cn/detail/2349766",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "锋龙股份：要约收购期限届满 股票自4月21日起停牌",
