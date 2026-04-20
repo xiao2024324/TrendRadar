@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T21:10:26.044440+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-04-20T23:11:48.891329+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
@@ -36,9 +36,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "一家上市券商一季度仅赚百万元，净利暴跌98%，背后竟因一只股票",
+          "url": "https://www.cls.cn/detail/2349766",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 23时11分]"
         },
         {
           "title": "安诺其：拟购买烽云信息100%股权 股票复牌",
@@ -50,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "一家上市券商一季度仅赚百万元，净利暴跌98%，背后竟因一只股票",
-          "url": "https://www.cls.cn/detail/2349766",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "锋龙股份：要约收购期限届满 股票自4月21日起停牌",
