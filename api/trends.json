@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:39:22.539820+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-04-21T05:39:55.648084+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时39分]"
         },
         {
           "title": "宁德时代股东一口气转让238亿元股票",
@@ -50,7 +50,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         }
