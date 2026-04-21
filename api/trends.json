@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T14:54:30.151506+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-04-21T16:29:08.683059+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一家上市券商一季度仅赚百万元，净利暴跌98%，背后竟因一只股票",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "马斯克去年购买了14亿美元的SpaceX股票。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
