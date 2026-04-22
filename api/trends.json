@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T03:02:05.223142+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-04-23T04:44:42.993481+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260423040547974800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     }
