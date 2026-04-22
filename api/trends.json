@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-04-22T23:06:02.300045+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2026-04-23T00:51:51.493771+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "柳钢股份：正在筹划以发行股份及支付现金的方式购买柳钢集团持有的广西钢铁集团有限公司的部分少数股权，并募集配套资金，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3092434",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260423003201816800",
+          "source": "金十数据",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "亚马逊CEO Jassy对公司股票减持791万美元。",
-          "url": "https://wallstreetcn.com/livenews/3092098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时36分]"
-        },
-        {
-          "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
-          "url": "https://wallstreetcn.com/livenews/3092092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "南京化纤：公司股票将于2026年4月23日停牌一天，于2026年4月24日起实施退市风险警示，A股股票简称变更为“*ST京化”。",
-          "url": "https://wallstreetcn.com/livenews/3092464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "00时51分"
         }
       ]
     }
