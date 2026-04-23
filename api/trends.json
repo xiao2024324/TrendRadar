@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T21:05:56.396190+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-04-23T23:46:10.027358+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
@@ -42,13 +42,24 @@
           "time_info": "18时16分"
         },
         {
+          "title": "爱尔眼科：拟发行H股股票并在香港联交所主板挂牌上市",
+          "url": "https://wallstreetcn.com/livenews/3093411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "财信发展：公司股票自4月27日起被实施退市风险警示和其他风险警示，股票简称变更为“*ST发展”。",
           "url": "https://wallstreetcn.com/livenews/3093313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -59,9 +70,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "米兰上市的意法半导体股票在暂停交易后恢复交易，涨幅14.3%。",
+          "url": "https://flash.jin10.com/detail/20260423230613854800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国证交会文件显示，奈飞(NFLX.O)授权额外250亿美元股票回购计划，且无到期日限制。",
