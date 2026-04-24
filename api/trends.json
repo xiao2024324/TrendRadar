@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:24:04.819758+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-04-24T19:00:49.560562+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "印尼基准股票指数下跌近3%。",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "上交所：本周对*ST观典、*ST岩石、*ST正平、*ST熊猫等异常波动退市风险警示股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3093959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "柳化股份：公司股票将于2026年4月27日停牌一天，于2026年4月28日起实施退市风险警示，实施后A股简称为*ST柳化。",
+          "url": "https://wallstreetcn.com/livenews/3093955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "中国高科：公司股票将于2026年4月27日停牌1天，于2026年4月28日起被实施退市风险警示，A股股票简称由“中国高科”变更为“*ST高科”。",
+          "url": "https://wallstreetcn.com/livenews/3093951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
@@ -39,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "锋龙股份：优必选科技要约收购2845万股公司股份，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3093922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         }
       ]
     }
