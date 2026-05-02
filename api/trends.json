@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:49:45.087789+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-03T04:33:58.629544+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
@@ -29,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时33分]"
         },
         {
           "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时33分]"
         }
       ]
     }
