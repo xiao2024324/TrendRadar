@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T07:44:20.772051+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-05-02T09:58:48.717087+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260502040603336800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时44分 ~ 09时58分]"
         },
         {
           "title": "雪佛龙需要“结构性”更高的石油价格来扩大股票回购规模。（彭博）",
@@ -59,7 +60,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
