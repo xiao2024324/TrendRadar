@@ -1,48 +1,22 @@
 {
-  "generated_at": "2026-05-04T23:05:53.790438+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-05-05T01:24:17.262899+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003152134800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "香港外汇基金第一季度投资收益345亿港元。 香港外汇基金第一季度债券投资收益246亿港元，香港股票投资亏损50亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3098355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
-          "url": "https://wallstreetcn.com/livenews/3098341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "01时24分"
         }
       ]
     }
