@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T17:56:28.665055+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-05-05T19:13:02.804249+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 19时13分]"
         },
         {
           "title": "金利华电：筹划发行股份及支付现金购买中科西光股权并募集配套资金 股票停牌",
