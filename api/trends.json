@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:48:00.430958+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-05-09T07:49:08.580726+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 07时49分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时49分]"
         }
       ]
     }
