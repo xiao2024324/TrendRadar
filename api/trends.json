@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-09T13:41:52.692147+08:00",
-  "total_titles_processed": 888,
-  "failed_sources": [],
+  "generated_at": "2026-05-09T15:46:48.598299+08:00",
+  "total_titles_processed": 1009,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "股票",
@@ -37,7 +39,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
