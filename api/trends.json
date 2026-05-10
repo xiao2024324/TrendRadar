@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-10T23:44:42.820451+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-05-11T00:44:25.142489+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：土耳其将对股票的“短期卖空”禁令延长至5月26日。",
-          "url": "https://flash.jin10.com/detail/20260509221828195800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
