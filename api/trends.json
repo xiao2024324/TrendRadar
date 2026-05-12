@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:14:36.365922+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-12T22:07:48.294501+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "百胜中国：达成下半年回购5.12亿美元股票协议。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260512214618436800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "股票型ETF基金连续3周大举净流出",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国上市的黄金矿业公司股票下跌，安哥拉黄金跌5.3%，西巴尼黄金下跌4%，和谐黄金、纽蒙特、金罗斯黄金跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260512213313454800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     }
