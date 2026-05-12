@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T16:50:26.698901+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-05-12T19:14:36.365922+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "百胜中国：达成下半年回购5.12亿美元股票协议。",
+          "url": "https://wallstreetcn.com/livenews/3102255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
         {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260512040533688800",
