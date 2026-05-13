@@ -1,78 +1,22 @@
 {
-  "generated_at": "2026-05-13T22:14:44.846617+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-05-14T01:14:24.157566+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "日本投资者4月净买入5,002亿日元外国债券，外国投资者4月净买入1.009万亿日元日本债券。日本投资者4月净卖出6,364亿日元外国股票，外国投资者4月净买入9.415万亿日元日本股票。",
-          "url": "https://flash.jin10.com/detail/20260513075411538800",
+          "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260514003130584800",
           "source": "金十数据",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260513040531113800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260513214733639800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "股票奖励大缩水！黄仁勋2026财年总薪酬曝光 较上年少拿1360万美元",
-          "url": "https://www.cls.cn/detail/2369917",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时57分]"
-        },
-        {
-          "title": "仁智股份：陈泽虹女士正在筹划公司控制权变更相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3103043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "通光线缆：公司股票异常波动期间（2026年5月12日、2026年5月13日），控股股东通光集团通过大宗交易方式累计减持公司股票252.72万股，本次减持划尚在实施中。",
-          "url": "https://wallstreetcn.com/livenews/3102858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "01时14分"
         }
       ]
     }
