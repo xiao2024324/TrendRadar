@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T17:37:40.658656+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-05-13T19:57:20.410168+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://www.cls.cn/detail/2369917",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时57分]"
         },
         {
           "title": "通光线缆：公司股票异常波动期间（2026年5月12日、2026年5月13日），控股股东通光集团通过大宗交易方式累计减持公司股票252.72万股，本次减持划尚在实施中。",
@@ -47,7 +48,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
