@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-13T06:05:59.897358+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-05-13T08:03:46.978059+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "日本投资者4月净买入5,002亿日元外国债券，外国投资者4月净买入1.009万亿日元日本债券。日本投资者4月净卖出6,364亿日元外国股票，外国投资者4月净买入9.415万亿日元日本股票。",
+          "url": "https://flash.jin10.com/detail/20260513075411538800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260513040531113800",
