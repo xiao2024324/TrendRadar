@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T17:28:55.241536+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-05-14T19:46:08.945331+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据知情人士透露，Cerebras Systems将美国IPO股票的发行价定在每股185美元，高于该公司此前所给指引区间。（彭博，CNBC）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时56分]"
+        },
+        {
+          "title": "ST张家界：股票将于5月18日起撤销其他风险警示 股票简称由“ST张家界”变更为“张家界”",
+          "url": "https://flash.jin10.com/detail/20260514190716334800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股盘中）",
