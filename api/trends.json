@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-15T07:48:30.736145+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-05-15T10:16:17.940645+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 4,
       "titles": [
-        {
-          "title": "Cerebras CEO：对快速推理的需求非同寻常。 随着我们成长，商品成本将下降。 “相当笃信”亚马逊旗下AWS将是我们庞大的渠道。 IPO股票的认购需求超过25倍。",
-          "url": "https://wallstreetcn.com/livenews/3103816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
         {
           "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
           "url": "https://wallstreetcn.com/articles/3772290",
@@ -28,8 +17,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 10时16分]"
+        },
+        {
+          "title": "Cerebras CEO：对快速推理的需求非同寻常。 随着我们成长，商品成本将下降。 “相当笃信”亚马逊旗下AWS将是我们庞大的渠道。 IPO股票的认购需求超过25倍。",
+          "url": "https://wallstreetcn.com/livenews/3103816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普提交的道德披露文件显示，其进行了与美国股票相关的交易。",
