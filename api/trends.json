@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T06:46:30.294117+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-16T07:47:26.190346+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             9,
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 07时47分]"
         },
         {
           "title": "证监会发布衍生品新规，严控杠杆投机，上市公司股票衍生品交易被全面收紧",
@@ -28,11 +29,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 07时47分]"
         },
         {
           "title": "报道：SpaceX股票最早将于6月12日上市",
@@ -55,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 07时47分]"
         },
         {
           "title": "知情人士：SpaceX股票最早将于6月12日上市",
