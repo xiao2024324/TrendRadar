@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T17:24:09.785883+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-16T18:56:57.543847+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,19 @@
           "time_info": "[04时54分 ~ 07时47分]"
         },
         {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 18时56分]"
+        },
+        {
           "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
           "url": "https://www.cls.cn/detail/2373044",
           "source": "财联社热门",
@@ -85,18 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时47分 ~ 15时52分]"
-        },
-        {
-          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
-          "url": "https://wallstreetcn.com/livenews/3104759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 17时24分]"
         },
         {
           "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
@@ -139,7 +140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
