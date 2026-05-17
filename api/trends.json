@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T04:02:29.029106+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-05-18T05:46:43.451137+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 05时46分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 05时46分]"
         }
       ]
     }
