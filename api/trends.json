@@ -1,75 +1,33 @@
 {
-  "generated_at": "2026-05-17T23:52:44.905036+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-05-18T00:48:38.998078+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时15分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://www.cls.cn/detail/2373254",
           "source": "财联社热门",
           "ranks": [
-            12,
-            8,
-            7,
-            9,
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时12分 ~ 23时52分]"
-        },
-        {
-          "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
-          "url": "https://flash.jin10.com/detail/20260517040319740800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 07时43分]"
-        },
-        {
-          "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
-          "url": "https://www.cls.cn/detail/2373044",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
-          "url": "https://flash.jin10.com/detail/20260516225206555800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时48分"
         }
       ]
     }
