@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T22:27:21.215979+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-17T23:52:44.905036+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时15分 ~ 22时27分]"
+          "appearance_count": 10,
+          "time_info": "[14时15分 ~ 23时52分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -29,11 +30,12 @@
             12,
             8,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时52分]"
         },
         {
           "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
