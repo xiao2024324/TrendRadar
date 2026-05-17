@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T18:23:13.459964+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-05-17T19:56:02.680042+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -9,29 +9,31 @@
       "titles": [
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
           "source": "澎湃新闻",
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 19时56分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 19时56分]"
         },
         {
           "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
