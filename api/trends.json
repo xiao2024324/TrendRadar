@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T16:59:44.188407+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-17T18:23:13.459964+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 18时23分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 18时23分]"
         },
         {
           "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 16时59分]"
         },
         {
           "title": "伯克希尔Q1清仓亚马逊 买入达美航空和Alphabet股票",
