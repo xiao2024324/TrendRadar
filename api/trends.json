@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T07:58:18.999186+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-05-19T10:51:54.244675+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "王力宏回应用代言费买比亚迪股票",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "国家金融与发展实验室理事长李扬：要大力发展资本市场，尤其要完善股票市场的各种制度",
+          "url": "https://flash.jin10.com/detail/20260519103040723800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
