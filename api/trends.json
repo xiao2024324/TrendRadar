@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T14:42:21.514926+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-05-20T18:21:17.247422+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2039837853883031925",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 18时21分]"
         },
         {
           "title": "5月19日，MSCI新兴市场货币指数下跌0.3%，巴西雷亚尔和韩元表现最为差劲，跌幅均达1%左右。 作为同胞指数的MSCI新兴市场股票指数重挫1.45%，最近三天的累计跌幅扩大至4.5%以上，创2026年3月底以来最大的三日连续跌幅。周二领跌的权重股包括首尔上市的存储芯片巨头SK海力士、台积电。",
