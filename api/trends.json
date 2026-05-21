@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T18:33:29.331144+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-05-21T21:57:04.495315+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时44分 ~ 18时33分]"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260521214149300800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "A股商业航天概念早盘拉升，铖昌科技直线涨停，瑞华泰、东方钽业、海格通信、春晖智控、上海港湾跟涨，消息上，SpaceX向SEC提交S-1注册声明，将在纳斯达克上市，股票代码为SPCX。",
