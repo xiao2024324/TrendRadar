@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T02:30:48.700537+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-05-23T04:29:14.818099+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "英国财政大臣Reeves料将对股票与股份个人储蓄账户（Stocks and Shares ISAs）中持有的现金征税。（英国每日电讯报）",
@@ -25,7 +36,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
