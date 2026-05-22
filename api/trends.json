@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T14:42:16.423660+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-22T18:19:07.906912+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 06时14分]"
+        },
+        {
+          "title": "华正新材：本次股票交易异常波动期间，董事长刘涛减持公司股份10,000股",
+          "url": "https://flash.jin10.com/detail/20260522172037393800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     }
