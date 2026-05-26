@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-05-26T21:49:37.068717+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-05-27T01:22:42.659921+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260526003132448800",
+          "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260527003233683800",
           "source": "金十数据",
           "ranks": [
-            6,
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时27分]"
-        },
-        {
-          "title": "美国航天公司股票上涨，太空探索公司直觉机器公司上涨8.2%，Planet Labs上涨4.1%，Rocket Lab上涨3%，Howmet Aerospace上涨2%。",
-          "url": "https://flash.jin10.com/detail/20260526213449117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "*ST汇科：公司股票自5月28日起撤销退市风险警示及其他风险警示",
-          "url": "https://flash.jin10.com/detail/20260526212151843800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "01时22分"
         }
       ]
     }
