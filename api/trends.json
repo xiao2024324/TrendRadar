@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:46:41.199603+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-05-28T22:32:19.288389+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
@@ -37,9 +37,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260528213958724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "腾讯控股(00700.HK)于5月28日以5.08亿港元回购了120万股股票。",
@@ -48,7 +59,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
