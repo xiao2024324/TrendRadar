@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T07:56:07.443509+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-05-28T10:14:35.774509+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据知情人士透露，日本软银集团将按每股51-53.63美元出售Symbotic Inc.（SYM.US）的股票，将按4.9%的折扣融资3亿美元。（彭博）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时56分]"
+        },
+        {
+          "title": "社媒帖子点燃欧洲半导体妖股 晶圆厂股票突遭资金疯抢",
+          "url": "https://www.cls.cn/detail/2383476",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     }
