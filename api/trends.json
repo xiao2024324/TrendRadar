@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-30T00:37:41.632495+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T03:28:41.644479+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "段永平向江西安福捐赠1万股贵州茅台股票：股票作为本金长期锁定，以分红、股息等作为可支出资金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262679",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "贝莱德削减模型投资组合的股票持仓，对股市超额回报持谨慎看法",
+          "url": "https://wallstreetcn.com/livenews/3111579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
