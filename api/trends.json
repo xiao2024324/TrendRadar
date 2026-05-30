@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-30T21:06:38.494625+08:00",
-  "total_titles_processed": 1275,
-  "failed_sources": [],
+  "generated_at": "2026-05-30T23:01:29.999622+08:00",
+  "total_titles_processed": 1369,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "股票",
