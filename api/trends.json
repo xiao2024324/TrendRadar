@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-02T00:32:24.369161+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-02T04:51:24.933362+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月01日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260602041613894800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
