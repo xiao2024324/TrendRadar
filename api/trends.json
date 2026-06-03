@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T21:09:21.980222+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-06-04T02:18:32.103654+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,23 +12,22 @@
           "url": "https://wallstreetcn.com/articles/3773700",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 21时09分]"
-        },
-        {
-          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-          "url": "https://www.cls.cn/detail/2388950",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "潘兴广场对所持环球音乐集团（UMG）股票出售了大约8060万股。",
+          "url": "https://wallstreetcn.com/livenews/3113934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
