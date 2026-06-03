@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T05:43:24.687933+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-04T07:28:02.617824+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773700",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 07时28分]"
         },
         {
           "title": "潘兴广场对所持环球音乐集团（UMG）股票出售了大约8060万股。",
