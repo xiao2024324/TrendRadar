@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T18:57:02.622813+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-06-04T21:55:07.208560+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间",
@@ -26,9 +26,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "摩根大通：4、5月全球股票回购金额创纪录 科技行业回购力度加大",
+          "url": "https://flash.jin10.com/detail/20260604210346265800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "潘兴广场对所持环球音乐集团（UMG）股票出售了大约8060万股。",
@@ -48,7 +59,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }
