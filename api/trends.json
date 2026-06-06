@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-06-06T23:07:38.422618+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-06-07T01:02:23.212449+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
-          "url": "https://flash.jin10.com/detail/20260606041131799800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时11分]"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260606040853818800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 06时11分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：至6月2日当周，美国投机者将标普500指数CME净空头持仓增加38,113手至485,582手，股票基金经理将标普500指数CME净多头持仓减少23,807手至985,207手。",
-          "url": "https://flash.jin10.com/detail/20260606035837273800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "泛欧交易所：5月现金市场交易总额同比增长22%。股票衍生品成交量环比下降7.7%，同比下降7.4%。",
-          "url": "https://flash.jin10.com/detail/20260605234932452800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
