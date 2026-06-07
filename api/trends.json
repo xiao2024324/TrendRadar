@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-07T22:47:35.407289+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-06-08T00:08:22.228985+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国散户6月首周抛售逾1万亿韩元海外股票",
-          "url": "https://flash.jin10.com/detail/20260607121637260800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "*ST沪科：股票6月8日进入退市整理期 预计29日为最后交易日",
-          "url": "https://flash.jin10.com/detail/20260607153554650800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
