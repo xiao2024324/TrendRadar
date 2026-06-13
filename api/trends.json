@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:27:42.856425+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-06-14T01:14:12.468423+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
-          "url": "https://flash.jin10.com/detail/20260613143851318800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "美国资管巨头申报多个中国股票杠杆ETF，包括中际旭创、新易盛、天孚通信等",
-          "url": "https://wallstreetcn.com/livenews/3119116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 17时52分]"
-        },
-        {
-          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
-          "url": "https://wallstreetcn.com/livenews/3119137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 21时29分]"
-        },
-        {
-          "title": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列。",
-          "url": "https://wallstreetcn.com/livenews/3119079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 10时35分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040515542800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
