@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:49:04.535488+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-06-13T21:29:40.226575+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[10时35分 ~ 17时52分]"
         },
         {
+          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3119137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 21时29分]"
+        },
+        {
           "title": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列。",
           "url": "https://wallstreetcn.com/livenews/3119079",
           "source": "华尔街见闻-快讯",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 10时35分]"
-        },
-        {
-          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
-          "url": "https://wallstreetcn.com/livenews/3119137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 19时49分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
