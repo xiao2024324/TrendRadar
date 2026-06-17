@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:49:57.497385+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-17T08:11:38.692267+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时11分]"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/livenews/3120529",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 08时11分]"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -59,7 +60,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         }
