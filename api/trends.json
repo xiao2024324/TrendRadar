@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:11:38.692267+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-17T14:02:58.659644+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 14时02分]"
+        },
+        {
+          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
+          "url": "https://wallstreetcn.com/articles/3774826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
