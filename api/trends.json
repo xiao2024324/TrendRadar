@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:02:58.659644+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-06-17T19:29:45.013704+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 19时29分]"
         },
         {
           "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
@@ -26,9 +26,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 19时29分]"
         },
         {
           "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
