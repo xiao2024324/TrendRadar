@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-18T04:02:23.790896+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-18T06:31:23.071836+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 3,
       "titles": [
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 06时31分]"
+        },
         {
           "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
           "url": "https://wallstreetcn.com/articles/3774826",
@@ -20,25 +32,13 @@
           "time_info": "[01时46分 ~ 04时02分]"
         },
         {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时02分]"
-        },
-        {
           "title": "新兴市场股票指数抹去涨幅，因美联储转鹰。",
           "url": "https://flash.jin10.com/detail/20260618033243142800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
