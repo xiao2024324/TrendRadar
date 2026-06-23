@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T00:22:52.381507+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:04:57.435723+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
-          "url": "https://wallstreetcn.com/livenews/3123569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
           "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
           "url": "https://wallstreetcn.com/articles/3775281",
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 03时04分]"
+        },
+        {
+          "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
+          "url": "https://wallstreetcn.com/livenews/3123569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 03时04分]"
         },
         {
           "title": "Prosus于6月15-19日按均价39.1859欧元回购股票229.1242万股，合计将近0.898亿欧元（折合约1.037亿美元）。 Naspers同期按均价847.1266南非兰特回购79.0310万股，合计约6.695亿兰特（折合约0.411亿美元）。",
