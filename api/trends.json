@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:29:52.220490+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-06-23T21:38:08.907304+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "做空力量正碾压多头？高盛：对冲基金五周来首次净卖出全球股票",
@@ -14,9 +14,31 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
+          "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
+          "url": "https://wallstreetcn.com/articles/3775281",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "市场消息：高盛股票业务交易额将突破50亿美元，向新纪录迈进。",
+          "url": "https://flash.jin10.com/detail/20260623210633788800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "21时38分"
         },
         {
           "title": "美国总统特朗普：国防承包商将不被允许进行股票回购。",
@@ -36,7 +58,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
