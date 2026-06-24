@@ -1,90 +1,22 @@
 {
-  "generated_at": "2026-06-24T22:10:05.504875+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-06-25T01:02:12.663062+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
-          "url": "https://wallstreetcn.com/articles/3775281",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 12时59分]"
-        },
-        {
-          "title": "监管叫停券商新增股票类跨境TRS，跨境配置通道降温，一线调研",
-          "url": "https://www.cls.cn/detail/2407769",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 22时10分]"
-        },
-        {
-          "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
-          "url": "https://wallstreetcn.com/livenews/3123569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "做空力量正碾压多头？高盛：对冲基金五周来首次净卖出全球股票",
-          "url": "https://www.cls.cn/detail/2406667",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 07时01分]"
-        },
-        {
-          "title": "旭光电子：股票交易严重异常波动 氮化铝产品对经营业绩影响较小",
-          "url": "https://flash.jin10.com/detail/20260624213336182800",
+          "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003422569800",
           "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "哔哩哔哩(BILI.O)股价上涨2.9%，此前公司宣布了新的3亿美元股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260624213244424800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "Prosus于6月15-19日按均价39.1859欧元回购股票229.1242万股，合计将近0.898亿欧元（折合约1.037亿美元）。 Naspers同期按均价847.1266南非兰特回购79.0310万股，合计约6.695亿兰特（折合约0.411亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3123549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时02分"
         }
       ]
     }
