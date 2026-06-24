@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T04:29:20.049069+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-06-25T06:09:40.332175+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -25,9 +25,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。 摩根士丹利将股息从1美元提高至1.15美元。 富国银行有意将股票分红提高11%，至0.50美元。 高盛计划提高股息至5美元，之前为4.50美元。 First Merchants将股票回购规模扩大至312.5万股，或回购1亿美元。 嘉信理财没有披露股票分红、或回购信息。",
+          "url": "https://wallstreetcn.com/livenews/3124225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     }
