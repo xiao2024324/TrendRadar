@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T07:01:59.745929+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-06-24T08:05:27.682892+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775281",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 08时05分]"
         },
         {
           "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
