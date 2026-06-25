@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-25T08:02:11.351985+08:00",
-  "total_titles_processed": 689,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-06-25T11:51:51.759814+08:00",
+  "total_titles_processed": 915,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
@@ -27,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -49,7 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -60,7 +58,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
