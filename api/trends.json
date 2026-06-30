@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T14:49:46.014305+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-06-30T18:27:40.284250+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：SpaceX与美国讨论捐赠股票给“特朗普账户”",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "望变电气：向特定对象发行股票申请获得上海证券交易所审核通过。",
+          "url": "https://flash.jin10.com/detail/20260630181358011800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "据美国财经媒体Semafor：SpaceX(SPCX.O)与美国政府讨论向“特朗普账户”捐赠股票事宜。",
