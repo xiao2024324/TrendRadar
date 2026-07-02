@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-02T10:31:46.597407+08:00",
-  "total_titles_processed": 766,
-  "failed_sources": [
-    "baidu"
-  ],
+  "generated_at": "2026-07-02T14:33:39.123288+08:00",
+  "total_titles_processed": 959,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
@@ -16,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
