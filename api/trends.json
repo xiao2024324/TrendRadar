@@ -1,100 +1,22 @@
 {
-  "generated_at": "2026-07-02T23:07:45.496529+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-07-03T01:29:19.037716+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国副财长：韩国将在必要时立即采取措施稳定韩元汇率。 韩元国际化是韩国经济的重要任务。 外国投资者抛售股票加剧了韩元波动。 韩国当局有足够的能力针对韩元采取措施。",
-          "url": "https://wallstreetcn.com/livenews/3127745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "韩国股市又被“小作文”打崩：国民年金被曝7月启动再平衡，或抛售高达74万亿国内股票",
-          "url": "https://wallstreetcn.com/articles/3775964",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时41分 ~ 07时05分]"
-        },
-        {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 07时05分]"
-        },
-        {
-          "title": "据美国证交会（SEC）文件显示，埃克森美孚石油(XOM.N)将于当地时间2026年7月1日完成公司注册地变更和重组，并将于2026年7月2日起在纽约证券交易所上市，股票代码为XOM。",
-          "url": "https://flash.jin10.com/detail/20260702003900164800",
+          "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260703003147514800",
           "source": "金十数据",
           "ranks": [
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "证监会同意宇树科技首次公开发行股票注册",
-          "url": "https://news.ifeng.com/c/8uR1VDkUpF3",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "证监会同意宇树科技股份有限公司首次公开发行股票注册。",
-          "url": "https://wallstreetcn.com/livenews/3127942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260702040547223800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3127603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "01时29分"
         }
       ]
     }
