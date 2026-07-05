@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-05T23:07:34.695915+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-06T00:58:31.415891+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "贝斯特：股票交易异常波动 人形机器人业务仍处样品阶段",
-          "url": "https://flash.jin10.com/detail/20260705161543702800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "卓然股份：股票被实施退市风险警示 7月7日复牌",
-          "url": "https://flash.jin10.com/detail/20260705154533226800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
