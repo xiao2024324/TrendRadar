@@ -1,133 +1,44 @@
 {
-  "generated_at": "2026-07-07T21:13:30.358619+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-07-08T00:21:18.001185+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
-          "url": "https://wallstreetcn.com/livenews/3129611",
+          "title": "“特斯拉劲敌”Rivian跌幅扩大至15%，创2024年11月份以来最差盘中表现，该公司发布业绩报告时宣布股票增发计划。",
+          "url": "https://wallstreetcn.com/livenews/3130087",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时21分"
         },
         {
-          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3129915",
+          "title": "Prosus于6月29日-7月3日按均价37.9771欧元回购股票221.8033万股，合计超过0.842亿欧元（折合超0.962亿美元）。 Naspers同期按均价821.0825南非兰特回购89.8420万股，合计约7.377亿兰特（折合0.451亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3130074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "00时21分"
         },
         {
-          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
-          "url": "https://www.cls.cn/detail/2418537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 15时32分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3129570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260707040552066800",
+          "title": "Rivian(RIVN.O)在计划出售股票后，股价幅度扩大至15%，创自2024年11月以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260707234328669800",
           "source": "金十数据",
           "ranks": [
-            10
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "英国央行行长贝利：股票估值的扩大似乎不仅限于人工智能乐观情绪。股市面临剧烈调整的风险依然很高。",
-          "url": "https://flash.jin10.com/detail/20260707183647790800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3129505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
-          "url": "https://wallstreetcn.com/livenews/3129789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "埃斯顿：股票交易异常波动 正筹划收购参股公司股权",
-          "url": "https://wallstreetcn.com/livenews/3129883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "明晟公司（MSCI）：将调整对孟买、印度国家证券交易所、韩国及台湾交易所“警示板”股票的处理规则。",
-          "url": "https://flash.jin10.com/detail/20260707043531256800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "又现匿名对个股发布赌约帖，相关股票交易情况已被密切监控",
-          "url": "https://wallstreetcn.com/livenews/3129676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "00时21分"
         }
       ]
     }
