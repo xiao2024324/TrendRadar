@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T15:32:22.970751+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-07-07T18:48:01.580634+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3129915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
@@ -53,6 +64,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "英国央行行长贝利：股票估值的扩大似乎不仅限于人工智能乐观情绪。股市面临剧烈调整的风险依然很高。",
+          "url": "https://flash.jin10.com/detail/20260707183647790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "交易条款显示：腾讯提议按每股43.25港元的价格出售快手股票。 腾讯提议出售价值15.1亿美元的快手股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3129505",
           "source": "华尔街见闻-快讯",
@@ -70,9 +92,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "埃斯顿：股票交易异常波动 正筹划收购参股公司股权",
+          "url": "https://wallstreetcn.com/livenews/3129883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "明晟公司（MSCI）：将调整对孟买、印度国家证券交易所、韩国及台湾交易所“警示板”股票的处理规则。",
