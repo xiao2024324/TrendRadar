@@ -1,46 +1,22 @@
 {
-  "generated_at": "2026-07-11T23:46:29.526562+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-07-12T00:45:11.549099+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
           "url": "https://wallstreetcn.com/articles/3776682",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时56分 ~ 23时46分]"
-        },
-        {
-          "title": "ETF数量突破1600只 月内股票型ETF“吸金”近千亿元",
-          "url": "https://flash.jin10.com/detail/20260711083422813800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美联储报告：股票、公司债和住宅房地产的资产估值均高于历史常态水平。",
-          "url": "https://wallstreetcn.com/livenews/3132161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
         }
       ]
     }
