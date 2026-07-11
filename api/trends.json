@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-11T07:51:42.807271+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-11T09:51:16.975332+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "ETF数量突破1600只 月内股票型ETF“吸金”近千亿元",
+          "url": "https://flash.jin10.com/detail/20260711083422813800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
         {
           "title": "美联储报告：股票、公司债和住宅房地产的资产估值均高于历史常态水平。",
           "url": "https://wallstreetcn.com/livenews/3132161",
