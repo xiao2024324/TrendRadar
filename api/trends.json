@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T04:51:43.278588+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-07-14T05:47:18.104299+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时47分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股盘中）",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时51分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时47分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -48,7 +49,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
