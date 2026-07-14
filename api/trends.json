@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T17:48:59.898761+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-07-14T19:19:53.119071+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
@@ -31,6 +31,20 @@
           "time_info": "01时09分"
         },
         {
+          "title": "股票腰斩,赛力斯血亏18亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 19时19分]"
+        },
+        {
           "title": "高盛：中国股票出现“轮动信号”",
           "url": "https://www.toutiao.com/trending/7660891930447970346/",
           "source": "今日头条",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 07时45分]"
-        },
-        {
-          "title": "股票腰斩,赛力斯血亏18亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 17时48分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -78,6 +79,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "美国银行第二季度净利息收入为160.0亿美元，预期为159.2亿美元。 第二季度每股收益为1.21美元。 第二季度FICC交易收入（不含DVA）为35.4亿美元，预期为35.3亿美元。 第二季度股票交易收入（不含DVA）为36.2亿美元，预期为26.9亿美元。 美国银行美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "摩根大通第二季度调整后营收为580.2亿美元，预期为513.9亿美元。 第二季度每股收益为7.70美元；第二季度调整后每股收益为6.14美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为60.5亿美元，预期为62.9亿美元。 第二季度股票销售与交易收入为60.3亿美元，预期为39.8亿美元。 摩根大通预计全财年净利息收入约为1055亿美元，此前预期约为1030亿美元。 摩根大通预计全财年调整后支出约1075亿美元，此前预期约1050亿美元。 摩根大通美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3133594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
