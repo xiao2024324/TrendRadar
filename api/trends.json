@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T15:05:44.399617+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-07-14T17:48:59.898761+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 17时48分]"
         },
         {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
