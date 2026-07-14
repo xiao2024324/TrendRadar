@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T04:52:02.377926+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-15T05:49:44.759859+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 05时49分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -25,7 +26,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
