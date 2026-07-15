@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T09:29:35.336206+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-07-15T12:43:08.311730+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "股票腰斩,赛力斯血亏18亿",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 12时43分]"
         },
         {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
@@ -43,13 +44,24 @@
           "time_info": "04时52分"
         },
         {
+          "title": "韩国券商：SK海力士ADR溢价或将刺激韩国本土股票买入需求",
+          "url": "https://flash.jin10.com/detail/20260715120419975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
           "url": "https://flash.jin10.com/detail/20260715091133554800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -85,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "韩国收紧在线股票贷款 单月新增占比封顶30%，每位借款人最高10亿韩元",
+          "url": "https://flash.jin10.com/detail/20260715114347501800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     }
