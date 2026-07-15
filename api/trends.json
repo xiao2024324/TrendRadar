@@ -1,49 +1,12 @@
 {
-  "generated_at": "2026-07-15T23:20:03.127354+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2026-07-16T01:07:29.619475+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 17,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "股票腰斩,赛力斯血亏18亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356158&amp;topic_name=%E8%82%A1%E7%A5%A8%E8%85%B0%E6%96%A9%2C%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A1%80%E4%BA%8F18%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            16,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 15时08分]"
-        },
-        {
-          "title": "摩根士丹利股票交易业务创纪录 加入华尔街大行“丰收季”",
-          "url": "https://wallstreetcn.com/livenews/3134384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "巨力索具：股票交易异常波动 不存在应披露而未披露的重大事项",
-          "url": "https://flash.jin10.com/detail/20260715173345269800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
         {
           "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
           "url": "https://www.cls.cn/detail/2427337",
@@ -52,151 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 23时20分]"
-        },
-        {
-          "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
-          "url": "https://wallstreetcn.com/livenews/3133925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260715040728504800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "韩国券商：SK海力士ADR溢价或将刺激韩国本土股票买入需求",
-          "url": "https://flash.jin10.com/detail/20260715120419975800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "美国股票的最大海外买家开始“打退堂鼓”",
-          "url": "https://wallstreetcn.com/livenews/3134468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
-          "url": "https://flash.jin10.com/detail/20260715091133554800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美联储主席沃什：更愿意看到企业投资，而不是回购股票。",
-          "url": "https://wallstreetcn.com/livenews/3134466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "Lucid集团股票恢复交易，跌幅扩大至39%。",
-          "url": "https://wallstreetcn.com/livenews/3133816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美联储主席沃什：我更希望看到公司进行投资，而不是回购股票。",
-          "url": "https://flash.jin10.com/detail/20260715224749318800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "天际股份：因2023年年报虚假记载公司及多名时任高管被罚，股票被“ST”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33579832",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260715003418187800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "超卓航科：控股股东正在筹划重大事项，该事项可能导致公司控制权变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3134295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "韩国收紧在线股票贷款 单月新增占比封顶30%，每位借款人最高10亿韩元",
-          "url": "https://flash.jin10.com/detail/20260715114347501800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "贝莱德第二季度营收70.8亿美元，预估68.2亿美元。 第二季度调整后每股收益13.91美元，预估12.66美元。 贝莱德第二季度资产管理规模15.34万亿美元，预估15.19万亿美元。 贝莱德将季度股票回购规模提高至5.5亿美元。 贝莱德美股盘前涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3134285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "01时07分"
         }
       ]
     }
