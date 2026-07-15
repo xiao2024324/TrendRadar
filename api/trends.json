@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:16:08.001958+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-07-15T23:20:03.127354+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "股票腰斩,赛力斯血亏18亿",
@@ -29,7 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 23时20分]"
         },
         {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
@@ -89,6 +89,17 @@
           "time_info": "12时43分"
         },
         {
+          "title": "美国股票的最大海外买家开始“打退堂鼓”",
+          "url": "https://wallstreetcn.com/livenews/3134468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
           "url": "https://flash.jin10.com/detail/20260715091133554800",
           "source": "金十数据",
@@ -100,6 +111,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "美联储主席沃什：更愿意看到企业投资，而不是回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3134466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "Lucid集团股票恢复交易，跌幅扩大至39%。",
           "url": "https://wallstreetcn.com/livenews/3133816",
           "source": "华尔街见闻-快讯",
@@ -109,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美联储主席沃什：我更希望看到公司进行投资，而不是回购股票。",
+          "url": "https://flash.jin10.com/detail/20260715224749318800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "天际股份：因2023年年报虚假记载公司及多名时任高管被罚，股票被“ST”",
