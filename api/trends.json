@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T15:08:18.807494+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-07-15T17:52:55.646527+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "股票腰斩,赛力斯血亏18亿",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时06分 ~ 15时08分]"
+        },
+        {
+          "title": "巨力索具：股票交易异常波动 不存在应披露而未披露的重大事项",
+          "url": "https://flash.jin10.com/detail/20260715173345269800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
