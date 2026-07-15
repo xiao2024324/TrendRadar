@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T12:43:08.311730+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-07-15T15:08:18.807494+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             15,
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 15时08分]"
         },
         {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
@@ -50,7 +51,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -105,7 +106,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
