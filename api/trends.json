@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:01:46.806394+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-17T06:07:32.565348+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时07分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -36,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
