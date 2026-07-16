@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:23:51.494043+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-07-16T23:27:50.436323+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 23时27分]"
         },
         {
           "title": "日本至7月10日当周买进外国股票 1962亿日元，前值8245亿日元。",
@@ -60,7 +60,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
