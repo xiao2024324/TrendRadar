@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:17:58.296671+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-07-16T17:59:21.751826+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本至7月10日当周买进外国股票 1962亿日元，前值8245亿日元。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
+          "url": "https://wallstreetcn.com/articles/3777104",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
@@ -49,9 +60,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "【昭衍新药：生物资产公允价值受多种不确定性因素影响 存在较大价值波动风险】昭衍新药公告称，公司股票于2026年7月14日、15日和16日连续3个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司股票于2026年7月14日、7月15日、7月16日连续三个交易日内收盘价格涨幅偏离值累计超过20%，公司股价短期内涨幅较大，存在市场情绪过热、非理性炒作风险，交易风险极大，随时存在股价下跌的风险。另外，公司生物资产公允价值受多种不确定性因素影响，存在较大价值波动风险。敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。",
+          "url": "https://wallstreetcn.com/livenews/3134974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "美国总统特朗普重申：国防企业不应该回购股票。",
