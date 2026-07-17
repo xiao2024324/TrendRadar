@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T04:01:37.719846+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-18T04:58:29.717043+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时58分]"
         },
         {
           "title": "四人操纵股票获利1.57亿被罚没6.27亿",
@@ -25,11 +25,12 @@
           "ranks": [
             12,
             8,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时58分]"
         },
         {
           "title": "尽管遭遇抛售，交易员们仍在继续将资金涌入贝莱德（BlackRock）规模达224亿美元的 iShares MSCI South Korea ETF。 根据彭博社汇编的数据，该基金本周已吸引超过28亿美元的资金流入，有望创下其有史以来最佳的单周资金流入纪录。该基金将其约四分之一的投资组合配置在韩国上市的SK海力士（SK Hynix）股票上。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 04时01分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260718040531274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "股票私募仓位创近4年新高，超七成百亿私募处于满仓状态",
