@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:44:42.024334+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-18T09:43:25.370471+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时44分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 09时43分]"
         },
         {
           "title": "四人操纵股票获利1.57亿被罚没6.27亿",
@@ -77,11 +77,23 @@
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 09时43分]"
+        },
+        {
+          "title": "4人操纵股票被罚没6.27亿元",
+          "url": "https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E7%BD%9A%E6%B2%A16.27%E4%BA%BF%E5%85%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时44分"
+          "time_info": "09时43分"
         },
         {
           "title": "股票私募仓位创近4年新高，超七成百亿私募处于满仓状态",
