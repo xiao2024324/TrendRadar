@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T23:50:06.156227+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-07-20T00:47:39.529189+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国诚通大额增持中国股票资产",
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时50分"
+          "time_info": "00时47分"
         },
         {
           "title": "中国国新：已使用股票回购增持专项再贷款及配套资金超500亿元",
@@ -25,43 +25,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "五年来基金业最大创新，“主动股票ETF”究竟给基民带来了什么？",
-          "url": "https://wallstreetcn.com/articles/3777280",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 09时51分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
           "title": "中国诚通、中国国新出手，增持中国股票资产",
           "url": "https://www.cls.cn/detail/2430604",
           "source": "财联社热门",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
           "title": "中国诚通大额增持中国股票资产",
           "url": "https://flash.jin10.com/detail/20260719221852774800",
           "source": "金十数据",
           "ranks": [
-            13
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时50分"
+          "time_info": "00时47分"
         }
       ]
     }
