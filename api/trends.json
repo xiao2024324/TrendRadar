@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:50:07.261364+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T10:09:10.083983+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国诚通、中国国新出手，增持中国股票资产",
@@ -19,8 +19,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 07时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时09分]"
+        },
+        {
+          "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430665",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "中国诚通大额增持中国股票资产",
@@ -34,6 +45,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 04时04分]"
+        },
+        {
+          "title": "两大央企近600亿增持中国股票资产",
+          "url": "https://www.toutiao.com/trending/7664256912476605979/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "中国国新：已使用股票回购增持专项再贷款及配套资金超500亿元",
@@ -72,6 +94,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 06时43分]"
+        },
+        {
+          "title": "“国家队”宣布增持股票",
+          "url": "https://www.douyin.com/hot/2577809",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "中国诚通近百亿元增持中国股票资产",
