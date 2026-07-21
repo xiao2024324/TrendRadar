@@ -1,103 +1,33 @@
 {
-  "generated_at": "2026-07-21T22:57:39.078437+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-07-22T00:19:43.575169+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
-          "url": "https://www.zhihu.com/question/2062331320521450737",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时49分]"
-        },
-        {
-          "title": "3567亿股票ETF逆市抄底创纪录，哪些力量在集中扫货？",
-          "url": "https://www.cls.cn/detail/2432534",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 20时22分]"
-        },
-        {
-          "title": "对冲基金创纪录抛售美科技股！戴蒙警告市场低估风险：当前不会买股票或美债",
-          "url": "https://flash.jin10.com/detail/20260721094243314800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "3567亿股票ETF逆市抄底创纪录",
-          "url": "https://www.baidu.com/s?wd=3567%E4%BA%BF%E8%82%A1%E7%A5%A8ETF%E9%80%86%E5%B8%82%E6%8A%84%E5%BA%95%E5%88%9B%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时22分]"
-        },
-        {
-          "title": "【长鑫科技：网上投资者放弃认购658.62万股】长鑫科技公告称，公司首次公开发行股票并在科创板上市发行结果已公布。本次发行价格为8.66元/股，初始发行股份数量为66.88亿股，占发行后总股本约10%。最终战略配售数量为16.67亿股，网上发行最终中签率约为0.47141739%。网上投资者缴款认购38.45亿股，放弃认购658.62万股；网下投资者缴款认购21.73亿股，放弃认购31567股。联席主承销商包销股份661.78万股，包销金额5731.01万元。超额配售选择权行使前，发行费用为2.81亿元。",
-          "url": "https://wallstreetcn.com/livenews/3137562",
+          "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3137678",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "00时19分"
         },
         {
-          "title": "加拿大木材、乳制品股票下跌，因美国誓言加征50%新关税",
-          "url": "https://wallstreetcn.com/livenews/3137627",
+          "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3137662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "韩国总统李在明：有批评指出，杠杆产品加剧了股票波动性。",
-          "url": "https://flash.jin10.com/detail/20260721093303024800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260721040540843800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "time_info": "00时19分"
         }
       ]
     }
