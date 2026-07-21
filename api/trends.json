@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T00:19:43.575169+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T02:12:02.579924+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
@@ -19,6 +19,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260722014347075800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
           "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3137662",
           "source": "华尔街见闻-快讯",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "SpaceX的宏大解禁即将来临，逾千亿美元股票将可上市交易",
+          "url": "https://wallstreetcn.com/livenews/3137686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "空客设定盈利增长目标，计划通过股票回购提振股价",
+          "url": "https://wallstreetcn.com/livenews/3137678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     }
