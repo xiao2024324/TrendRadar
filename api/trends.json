@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-24T05:58:33.085879+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-07-24T06:53:41.998438+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新加坡政府投资公司GIC：截至3月底，股票投资组合占比为56%，一年前为51%。固定收益投资组合占比为22%，一年前为26%。实物资产投资组合占比为22%，一年前为23%。",
+          "url": "https://flash.jin10.com/detail/20260724060004100800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
