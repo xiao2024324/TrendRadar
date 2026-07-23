@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-07-23T23:07:02.051021+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-07-24T01:11:36.411700+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国众议院通过法案 限制议员买卖股票",
-          "url": "https://flash.jin10.com/detail/20260723061802452800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
-        },
-        {
-          "title": "多家外资机构发声看好A股市场看多中国股票",
-          "url": "https://wallstreetcn.com/livenews/3138445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
-        },
-        {
-          "title": "意法半导体在米兰上市的股票开始交易，跌幅14%。",
-          "url": "https://flash.jin10.com/detail/20260723150617379800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "段永平：10年内大概率不会卖泡泡玛特股票",
-          "url": "https://wallstreetcn.com/livenews/3138744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
