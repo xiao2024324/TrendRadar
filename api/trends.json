@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T12:11:08.723654+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-07-23T15:29:20.429004+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国众议院通过法案 限制议员买卖股票",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时03分]"
+        },
+        {
+          "title": "意法半导体在米兰上市的股票开始交易，跌幅14%。",
+          "url": "https://flash.jin10.com/detail/20260723150617379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     }
