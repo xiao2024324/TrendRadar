@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:58:49.061301+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-25T07:59:58.551220+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             19,
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 07时59分]"
         },
         {
           "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时59分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -42,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时59分]"
         }
       ]
     }
