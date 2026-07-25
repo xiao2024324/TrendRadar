@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T22:56:32.685322+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-07-25T23:58:25.526752+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时56分]"
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时58分]"
         },
         {
           "title": "明晟MSCI新兴市场外汇指数周五跌0.1%，整体上连涨四周，创1月初以来最长连涨周数。 MSCI发展中国家股票指数跌2.6%，创最近一个月最大单日跌幅。",
