@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:57:45.848010+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-26T21:02:07.462253+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时57分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 21时02分]"
         },
         {
           "title": "*ST元道：公司股票可能因市值低于3亿元被终止上市",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 18时31分]"
+        },
+        {
+          "title": "嘉立创：首次公开发行股票网上发行最终中签率为0.0218%",
+          "url": "https://flash.jin10.com/detail/20260726203927640800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
