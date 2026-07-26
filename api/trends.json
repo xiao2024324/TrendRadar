@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T13:25:30.280138+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-07-26T16:11:14.405274+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 06时45分]"
+        },
+        {
+          "title": "*ST元道：公司股票可能因市值低于3亿元被终止上市",
+          "url": "https://flash.jin10.com/detail/20260726155736134800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     }
