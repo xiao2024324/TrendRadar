@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-07-27T21:34:59.360748+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-07-28T00:09:28.130922+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "股票",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝商所（CME）周一将推出个股期货，使投资者能够对50多只美国龙头股进行对冲或投机。相关合约将以挂钩股票的收盘价进行现金结算，并提供比期权更为简单的杠杆方式。个股期货将每周交易五天、每天23小时，并有两种规模：大型合约以100股股票为基础，微型合约以10股为基础。",
-          "url": "https://flash.jin10.com/detail/20260727010322157800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 04时08分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
