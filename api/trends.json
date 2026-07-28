@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:10:52.591687+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-07-28T21:43:00.066535+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "长鑫科技获纳入MSCI中国全股票指数",
@@ -14,9 +14,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "韩国散户从FOMO急转JOMO，“没买股票的才是赢家”！KOSPI指数7月已暴跌33%",
+          "url": "https://wallstreetcn.com/articles/3778115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨0.9%，外汇指数涨0.2%。",
