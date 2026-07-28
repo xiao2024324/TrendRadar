@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T21:43:00.066535+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-07-28T23:59:43.938363+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "长鑫科技获纳入MSCI中国全股票指数",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时59分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数涨0.9%，外汇指数涨0.2%。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "Prosus于7月20-24日按均价37.8363欧元回购股票218.7722万股，合计将近0.828亿欧元（折合宠爱0.943亿美元）。 Naspers同期按均价814.7326南非兰特回购98.6509万股，合计超8.037亿兰特（折合超0.484亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3141102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
