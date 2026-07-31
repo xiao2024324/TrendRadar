@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T21:44:09.431226+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-07-31T23:56:45.979089+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宇树科技股票发行安排",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "巴西掉期合约交易恢复；股票仍然暂停交易。此前，巴西证券交易所B3技术故障致市场开盘延迟。",
+          "url": "https://flash.jin10.com/detail/20260731234346258800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股收盘）",
