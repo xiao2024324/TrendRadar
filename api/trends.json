@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T05:46:05.782603+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-08-02T06:46:07.504926+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时46分]"
         },
         {
           "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
           "url": "https://www.cls.cn/detail/2443333",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时46分]"
         },
         {
           "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
@@ -36,11 +37,12 @@
           "ranks": [
             15,
             19,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 06时46分]"
         }
       ]
     }
