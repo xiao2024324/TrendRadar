@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:58:10.494829+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-08-01T21:06:53.834983+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 19时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 21时06分]"
         },
         {
           "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
+          "url": "https://www.zhihu.com/question/2066172239116853500",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
