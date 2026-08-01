@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T13:48:12.248546+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-08-01T16:06:39.907933+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时06分]"
         },
         {
           "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
