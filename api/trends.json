@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T10:14:59.202585+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-08-01T13:48:12.248546+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
+          "url": "https://www.cls.cn/detail/2443161",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时48分]"
+        },
         {
           "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
           "url": "https://flash.jin10.com/detail/20260801043401365800",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时55分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
-          "url": "https://www.cls.cn/detail/2443161",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时14分]"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
