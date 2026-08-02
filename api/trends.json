@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:02:34.250224+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-08-02T22:55:22.921833+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,6 @@
             5,
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 21时02分]"
-        },
-        {
-          "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
-          "url": "https://www.cls.cn/detail/2443333",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            9,
-            12
           ],
           "is_new": false,
           "appearance_count": 18,
@@ -51,6 +36,22 @@
           "time_info": "[00时51分 ~ 07时50分]"
         },
         {
+          "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
+          "url": "https://www.cls.cn/detail/2443333",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 22时55分]"
+        },
+        {
           "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
           "url": "https://www.cls.cn/detail/2443510",
           "source": "财联社热门",
@@ -59,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时55分]"
         }
       ]
     }
