@@ -1,67 +1,22 @@
 {
-  "generated_at": "2026-08-02T23:55:00.656014+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-08-03T00:50:54.704438+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
-          "url": "https://www.cls.cn/detail/2443161",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 21时02分]"
-        },
-        {
-          "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
-          "url": "https://www.zhihu.com/question/2066172239116853500",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 07时50分]"
-        },
-        {
-          "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
-          "url": "https://www.cls.cn/detail/2443333",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 22时55分]"
-        },
         {
           "title": "周末要闻汇总：事关核电、新型电网等，国常会最新部署来了；股票ETF7月净流入创历史峰值",
           "url": "https://www.cls.cn/detail/2443510",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     }
