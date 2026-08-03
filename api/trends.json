@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:48:09.085369+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-04T03:21:26.224903+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时21分]"
         },
         {
           "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时21分]"
         }
       ]
     }
