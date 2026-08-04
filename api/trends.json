@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-04T07:02:57.209393+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-08-04T09:44:45.123006+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 5,
       "titles": [
+        {
+          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
+          "url": "https://wallstreetcn.com/articles/3778559",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 09时44分]"
+        },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
           "url": "https://www.toutiao.com/trending/7669788116869189162/",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时02分]"
-        },
-        {
-          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
-          "url": "https://wallstreetcn.com/articles/3778559",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
