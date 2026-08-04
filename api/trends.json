@@ -1,82 +1,22 @@
 {
-  "generated_at": "2026-08-04T23:17:50.983772+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-08-05T01:31:47.086323+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
-          "url": "https://wallstreetcn.com/articles/3778559",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时47分 ~ 12时57分]"
-        },
-        {
-          "title": "A股4000只股票上涨为何科技股暴跌",
-          "url": "https://www.toutiao.com/trending/7669788116869189162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时21分]"
-        },
-        {
-          "title": "市场消息：亚马逊(AMZN.O)创始人贝索斯出售价值40.7亿美元的股票。",
-          "url": "https://flash.jin10.com/detail/20260804061531317800",
+          "title": "金十图示：2026年08月04日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260805003144747800",
           "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040540550800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时02分]"
-        },
-        {
-          "title": "亚马逊创始人杰夫·贝索斯出售价值40.7亿美元的股票。",
-          "url": "https://wallstreetcn.com/livenews/3144370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时02分]"
-        },
-        {
-          "title": "高盛：仍看好韩国股票，维持对Kospi指数12,000点的预测",
-          "url": "https://wallstreetcn.com/livenews/3144552",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "01时31分"
         }
       ]
     }
