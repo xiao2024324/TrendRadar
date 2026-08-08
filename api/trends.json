@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T07:27:00.952822+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-08-08T08:59:24.848506+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260808040607361800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 08时59分]"
         },
         {
           "title": "胜宏科技：股票交易异常波动",
