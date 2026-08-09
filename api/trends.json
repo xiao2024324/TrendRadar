@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T07:20:17.017642+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-08-09T09:02:10.106165+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -14,11 +14,23 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 09时02分]"
+        },
+        {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
         }
       ]
     }
