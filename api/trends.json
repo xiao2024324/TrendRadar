@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:57:11.913497+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-08-09T13:42:38.654538+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时42分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时57分]"
+          "time_info": "[12时56分 ~ 13时42分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -34,17 +46,6 @@
           "time_info": "[00时23分 ~ 09时02分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
           "url": "https://www.cls.cn/detail/2449170",
           "source": "财联社热门",
@@ -53,19 +54,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时42分]"
         },
         {
           "title": "伯克希尔净买入约200亿美元股票",
           "url": "https://www.toutiao.com/trending/7671843485523119662/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时42分]"
         }
       ]
     }
