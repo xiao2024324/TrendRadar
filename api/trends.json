@@ -1,114 +1,55 @@
 {
-  "generated_at": "2026-08-09T23:23:26.041566+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-08-10T00:24:33.932709+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
           "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时56分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
           "url": "https://wallstreetcn.com/articles/3778995",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时26分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
           "url": "https://www.cls.cn/detail/2449170",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            7,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 23时23分]"
-        },
-        {
-          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 09时02分]"
-        },
-        {
-          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
-          "url": "https://wallstreetcn.com/livenews/3147055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时32分]"
-        },
-        {
-          "title": "伯克希尔净买入约200亿美元股票",
-          "url": "https://www.toutiao.com/trending/7671843485523119662/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 13时42分]"
-        },
-        {
-          "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
-          "url": "https://flash.jin10.com/detail/20260809155351803800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
           "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         }
       ]
     }
