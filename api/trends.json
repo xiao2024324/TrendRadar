@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:24:43.422900+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-08-09T19:22:10.657425+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 19时22分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 19时22分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -39,11 +39,12 @@
           "ranks": [
             11,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 19时22分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -65,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "伯克希尔净买入约200亿美元股票",
