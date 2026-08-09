@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T00:24:33.932709+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:23:22.498645+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时23分]"
         },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时23分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时23分]"
         },
         {
           "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
@@ -48,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时23分]"
         }
       ]
     }
