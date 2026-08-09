@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-09T19:22:10.657425+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-08-09T20:32:00.719059+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
       "match_count": 7,
       "titles": [
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时56分 ~ 20时32分]"
+        },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
           "url": "https://wallstreetcn.com/articles/3778995",
@@ -17,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 19时22分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时56分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 20时32分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时01分 ~ 20时32分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -67,11 +67,12 @@
           "ranks": [
             4,
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时32分]"
         },
         {
           "title": "伯克希尔净买入约200亿美元股票",
