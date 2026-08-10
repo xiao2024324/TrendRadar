@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T09:04:37.038700+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-08-10T11:45:48.141182+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -53,8 +53,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 11时45分]"
+        },
+        {
+          "title": "Academy Securities：AI股票承受资本开支压力，AI债券却出现另一种机会",
+          "url": "https://flash.jin10.com/detail/20260810105752542800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     }
