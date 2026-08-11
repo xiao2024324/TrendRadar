@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T14:52:06.682817+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-08-11T17:53:07.358457+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "英特尔(INTC.O)股价盘前下跌1%，此前该公司宣布将股票发行规模扩大并确定定价。",
+          "url": "https://flash.jin10.com/detail/20260811174721978800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
         {
           "title": "美国证券交易委员会（SEC）：已对Adit Ventures Management等公司提起诉讼，其涉嫌在SpaceX和Klarna.com等IPO前股票投资中欺诈投资者和客户资金。",
           "url": "https://flash.jin10.com/detail/20260811040902147800",
