@@ -1,125 +1,22 @@
 {
-  "generated_at": "2026-08-12T23:52:52.861113+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-08-13T01:53:01.347645+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "城堡证券称：准备重新加杠杆做多股票",
-          "url": "https://wallstreetcn.com/livenews/3148194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时50分]"
-        },
-        {
-          "title": "978万户疯抢宇树股票",
-          "url": "https://www.toutiao.com/trending/7672772029430369798/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时50分]"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票指数跌0.3%，外汇指数跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3148248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时34分]"
-        },
-        {
-          "title": "【中国央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察】中国人民银行发布2026年第二季度中国货币政策执行报告。专栏内容提出，淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察。近年来，房地产、基础设施建设等资金密集行业持续调整，而新质生产力更加轻型，单位经济增长所需的银行贷款相应下降，贷款需求天然减少。同时，债券、股票等其他渠道重要性上升。特别是科技型企业在不同成长阶段具有差异化的风险收益特征，需要包括债券、股权融资在内的多元化融资渠道提供全生命周期的资金支持，金融体系与产业结构转型升级更加适配。今年上半年，企业债券和股票净融资2.4万亿元，同比多约1万亿元。如果把企业贷款、企业债券和股票合并起来看，今年上半年增加13.5万亿元，同比多约6000亿元。",
-          "url": "https://wallstreetcn.com/livenews/3148585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "央行：继续实施股票回购增持再贷款",
-          "url": "https://flash.jin10.com/detail/20260812183235157800",
+          "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "晨星数据显示，2026年上半年，不含中国的新兴市场股票基金吸引了近70亿美元净流入，创有记录以来最强的半年表现，与2025年的资金流出形成鲜明反差。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3148628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260812011055965800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260812040554787800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "天孚通信：拟推228.87万股限制性股票激励计划",
-          "url": "https://wallstreetcn.com/livenews/3148616",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3148156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时53分"
         }
       ]
     }
