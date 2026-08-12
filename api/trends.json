@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:36:45.138197+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-13T06:31:53.006490+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时31分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
