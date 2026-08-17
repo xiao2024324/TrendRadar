@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-17T14:36:45.964422+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-08-17T17:32:48.055242+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "股票",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据上交所官网，广东钶锐锶数控技术股份有限公司首次公开发行股票并在科创板上市科创板IPO审核状态变更为“上市委会议通过”。",
+          "url": "https://flash.jin10.com/detail/20260817170708752800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
