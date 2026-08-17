@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-17T17:32:48.055242+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-17T22:19:56.547630+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "注意！低于100元现金、无证券资产的股票账户要被“休眠”处理了",
+          "url": "https://www.cls.cn/detail/2456272",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
         {
           "title": "据上交所官网，广东钶锐锶数控技术股份有限公司首次公开发行股票并在科创板上市科创板IPO审核状态变更为“上市委会议通过”。",
           "url": "https://flash.jin10.com/detail/20260817170708752800",
@@ -14,7 +25,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
